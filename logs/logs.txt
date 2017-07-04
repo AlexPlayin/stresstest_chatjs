@@ -31781,3 +31781,2152 @@
 [22:38.28] 2.213532059322659 messages per minute
 [22:38.38] 2.213532059322659 messages per minute
 [22:38.48] 2.213532059322659 messages per minute
+[22:47.24] Starting...
+[22:47.24] Webapp listening on port 3000
+[22:47.25] startig worker
+[22:47.25] Starting Worker #0
+[22:47.25] http://188.68.59.198:8080
+[22:47.27] startig worker
+[22:47.27] Starting Worker #1
+[22:47.27] http://188.68.59.198:8080
+[22:47.28] Worker #0 connected
+[22:47.28] startig worker
+[22:47.28] Starting Worker #2
+[22:47.28] http://188.68.59.198:8080
+[22:47.28] Worker #1 connected
+[22:47.28] Worker #2 connected
+[22:47.28] startig worker
+[22:47.28] Starting Worker #3
+[22:47.28] http://188.68.59.198:8080
+[22:47.28] Worker #3 connected
+[22:47.29] startig worker
+[22:47.29] Starting Worker #4
+[22:47.29] http://188.68.59.198:8080
+[22:47.30] startig worker
+[22:47.30] Starting Worker #5
+[22:47.30] http://188.68.59.198:8080
+[22:47.31] Worker #4 connected
+[22:47.31] Worker #5 connected
+[22:47.34] 47.9628824441855 messages per minute
+[22:47.35] startig worker
+[22:47.35] Starting Worker #6
+[22:47.35] http://188.68.59.198:8080
+[22:47.35] Worker #6 connected
+[22:47.41] startig worker
+[22:47.41] Starting Worker #7
+[22:47.41] http://188.68.59.198:8080
+[22:47.41] Worker #7 connected
+[22:47.43] startig worker
+[22:47.43] Starting Worker #8
+[22:47.43] http://188.68.59.198:8080
+[22:47.44] 58.75608742185209 messages per minute
+[22:47.44] Worker #8 connected
+[22:47.45] startig worker
+[22:47.45] Starting Worker #9
+[22:47.45] http://188.68.59.198:8080
+[22:47.45] startig worker
+[22:47.45] Starting Worker #10
+[22:47.45] http://188.68.59.198:8080
+[22:47.48] startig worker
+[22:47.48] Starting Worker #11
+[22:47.48] http://188.68.59.198:8080
+[22:47.49] startig worker
+[22:47.49] Starting Worker #12
+[22:47.49] http://188.68.59.198:8080
+[22:47.49] startig worker
+[22:47.49] Starting Worker #13
+[22:47.49] http://188.68.59.198:8080
+[22:47.50] Worker #10 connected
+[22:47.50] Worker #9 connected
+[22:47.50] Worker #11 connected
+[22:47.50] Worker #12 connected
+[22:47.50] Worker #13 connected
+[22:47.51] startig worker
+[22:47.51] Starting Worker #14
+[22:47.51] http://188.68.59.198:8080
+[22:47.53] Worker #14 connected
+[22:47.54] startig worker
+[22:47.54] Starting Worker #15
+[22:47.54] http://188.68.59.198:8080
+[22:47.54] 92.9151790956725 messages per minute
+[22:47.54] Worker #15 connected
+[22:47.58] startig worker
+[22:47.58] Starting Worker #16
+[22:47.58] http://188.68.59.198:8080
+[22:47.58] startig worker
+[22:47.58] Starting Worker #17
+[22:47.58] http://188.68.59.198:8080
+[22:47.58] startig worker
+[22:47.58] Starting Worker #18
+[22:47.58] http://188.68.59.198:8080
+[22:47.59] Worker #16 connected
+[22:47.59] Worker #17 connected
+[22:47.59] Worker #18 connected
+[22:48.0] startig worker
+[22:48.0] Starting Worker #19
+[22:48.0] http://188.68.59.198:8080
+[22:48.2] Worker #19 connected
+[22:48.3] startig worker
+[22:48.3] Starting Worker #20
+[22:48.3] http://188.68.59.198:8080
+[22:48.3] Starting Worker #21
+[22:48.3] startig worker
+[22:48.3] http://188.68.59.198:8080
+[22:48.3] startig worker
+[22:48.3] Starting Worker #22
+[22:48.3] http://188.68.59.198:8080
+[22:48.3] startig worker
+[22:48.3] Starting Worker #23
+[22:48.3] http://188.68.59.198:8080
+[22:48.3] startig worker
+[22:48.3] Starting Worker #24
+[22:48.3] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #25
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #26
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] 137.31405254917948 messages per minute
+[22:48.4] startig worker
+[22:48.4] Starting Worker #27
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #28
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #29
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #30
+[22:48.4] http://188.68.59.198:8080
+[22:48.4] startig worker
+[22:48.4] Starting Worker #31
+[22:48.4] http://188.68.59.198:8080
+[22:48.5] startig worker
+[22:48.5] Starting Worker #32
+[22:48.5] http://188.68.59.198:8080
+[22:48.5] startig worker
+[22:48.5] Starting Worker #33
+[22:48.5] http://188.68.59.198:8080
+[22:48.5] startig worker
+[22:48.5] Starting Worker #34
+[22:48.5] http://188.68.59.198:8080
+[22:48.5] startig worker
+[22:48.5] Starting Worker #35
+[22:48.5] http://188.68.59.198:8080
+[22:48.5] startig worker
+[22:48.5] Starting Worker #36
+[22:48.5] http://188.68.59.198:8080
+[22:48.6] startig worker
+[22:48.6] Starting Worker #37
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] startig worker
+[22:48.6] Starting Worker #38
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] startig worker
+[22:48.6] Starting Worker #39
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] startig worker
+[22:48.6] Starting Worker #40
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] Worker #20 connected
+[22:48.6] Worker #21 connected
+[22:48.6] Worker #22 connected
+[22:48.6] Worker #23 connected
+[22:48.6] Starting Worker #41
+[22:48.6] startig worker
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] Worker #24 connected
+[22:48.6] Worker #25 connected
+[22:48.6] Worker #26 connected
+[22:48.6] Worker #27 connected
+[22:48.6] Worker #28 connected
+[22:48.6] Worker #29 connected
+[22:48.6] startig worker
+[22:48.6] Starting Worker #42
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] Worker #30 connected
+[22:48.6] Worker #31 connected
+[22:48.6] Worker #33 connected
+[22:48.6] Worker #32 connected
+[22:48.6] Worker #34 connected
+[22:48.6] Worker #38 connected
+[22:48.6] Worker #35 connected
+[22:48.6] Worker #36 connected
+[22:48.6] Worker #37 connected
+[22:48.6] Worker #39 connected
+[22:48.6] Worker #40 connected
+[22:48.6] Worker #41 connected
+[22:48.6] startig worker
+[22:48.6] Starting Worker #43
+[22:48.6] http://188.68.59.198:8080
+[22:48.6] Worker #42 connected
+[22:48.6] Worker #43 connected
+[22:48.7] startig worker
+[22:48.7] Starting Worker #44
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #45
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #46
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #47
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #48
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #49
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #50
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] Starting Worker #51
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] startig worker
+[22:48.7] http://188.68.59.198:8080
+[22:48.7] Starting Worker #52
+[22:48.7] startig worker
+[22:48.7] Starting Worker #53
+[22:48.7] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #54
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #55
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #56
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #57
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #58
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #59
+[22:48.8] http://188.68.59.198:8080
+[22:48.8] startig worker
+[22:48.8] Starting Worker #60
+[22:48.8] http://188.68.59.198:8080
+[22:48.9] startig worker
+[22:48.9] Starting Worker #61
+[22:48.9] http://188.68.59.198:8080
+[22:48.9] Worker #44 connected
+[22:48.9] Worker #45 connected
+[22:48.9] Worker #46 connected
+[22:48.9] Worker #47 connected
+[22:48.9] Worker #48 connected
+[22:48.9] Worker #49 connected
+[22:48.9] Worker #50 connected
+[22:48.9] Worker #51 connected
+[22:48.9] Worker #52 connected
+[22:48.9] Worker #53 connected
+[22:48.9] Worker #54 connected
+[22:48.9] Worker #55 connected
+[22:48.9] Worker #56 connected
+[22:48.9] Worker #57 connected
+[22:48.9] Worker #58 connected
+[22:48.9] Worker #59 connected
+[22:48.9] Worker #60 connected
+[22:48.9] Worker #61 connected
+[22:48.9] startig worker
+[22:48.9] Starting Worker #62
+[22:48.9] http://188.68.59.198:8080
+[22:48.10] startig worker
+[22:48.10] Starting Worker #63
+[22:48.10] http://188.68.59.198:8080
+[22:48.10] startig worker
+[22:48.10] Starting Worker #64
+[22:48.10] http://188.68.59.198:8080
+[22:48.10] startig worker
+[22:48.10] Starting Worker #65
+[22:48.10] http://188.68.59.198:8080
+[22:48.10] startig worker
+[22:48.10] Starting Worker #66
+[22:48.10] http://188.68.59.198:8080
+[22:48.11] startig worker
+[22:48.11] Starting Worker #67
+[22:48.11] http://188.68.59.198:8080
+[22:48.11] startig worker
+[22:48.11] Starting Worker #68
+[22:48.11] http://188.68.59.198:8080
+[22:48.11] startig worker
+[22:48.11] Starting Worker #69
+[22:48.11] http://188.68.59.198:8080
+[22:48.11] startig worker
+[22:48.11] Starting Worker #70
+[22:48.11] http://188.68.59.198:8080
+[22:48.11] startig worker
+[22:48.11] Starting Worker #71
+[22:48.11] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #72
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #73
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #74
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #75
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #76
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #77
+[22:48.12] http://188.68.59.198:8080
+[22:48.12] startig worker
+[22:48.12] Starting Worker #78
+[22:48.12] http://188.68.59.198:8080
+[22:48.13] startig worker
+[22:48.13] Starting Worker #79
+[22:48.13] http://188.68.59.198:8080
+[22:48.13] startig worker
+[22:48.13] Starting Worker #80
+[22:48.13] http://188.68.59.198:8080
+[22:48.13] startig worker
+[22:48.13] Starting Worker #81
+[22:48.13] http://188.68.59.198:8080
+[22:48.14] startig worker
+[22:48.14] Starting Worker #82
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] startig worker
+[22:48.14] Starting Worker #83
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] startig worker
+[22:48.14] Starting Worker #84
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] 506.81137205032263 messages per minute
+[22:48.14] startig worker
+[22:48.14] Starting Worker #85
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] Worker #62 connected
+[22:48.14] startig worker
+[22:48.14] Starting Worker #86
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] startig worker
+[22:48.14] Starting Worker #87
+[22:48.14] http://188.68.59.198:8080
+[22:48.14] startig worker
+[22:48.14] Starting Worker #88
+[22:48.14] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #89
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #90
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] Starting Worker #91
+[22:48.15] startig worker
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #92
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #93
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #94
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #95
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #96
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #97
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #98
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #99
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #100
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #101
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #102
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #103
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #104
+[22:48.15] http://188.68.59.198:8080
+[22:48.15] startig worker
+[22:48.15] Starting Worker #105
+[22:48.15] http://188.68.59.198:8080
+[22:48.16] startig worker
+[22:48.16] Starting Worker #106
+[22:48.16] http://188.68.59.198:8080
+[22:48.16] startig worker
+[22:48.16] Starting Worker #107
+[22:48.16] http://188.68.59.198:8080
+[22:48.16] startig worker
+[22:48.16] Starting Worker #108
+[22:48.16] http://188.68.59.198:8080
+[22:48.16] startig worker
+[22:48.16] Starting Worker #109
+[22:48.16] http://188.68.59.198:8080
+[22:48.16] startig worker
+[22:48.16] Starting Worker #110
+[22:48.16] http://188.68.59.198:8080
+[22:48.17] startig worker
+[22:48.17] Starting Worker #111
+[22:48.17] http://188.68.59.198:8080
+[22:48.17] startig worker
+[22:48.17] Starting Worker #112
+[22:48.17] http://188.68.59.198:8080
+[22:48.17] startig worker
+[22:48.17] Starting Worker #113
+[22:48.17] http://188.68.59.198:8080
+[22:48.17] startig worker
+[22:48.17] Starting Worker #114
+[22:48.17] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #115
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #116
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #117
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #118
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #119
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #120
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #121
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #122
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #123
+[22:48.18] http://188.68.59.198:8080
+[22:48.18] startig worker
+[22:48.18] Starting Worker #124
+[22:48.18] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #125
+[22:48.19] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #126
+[22:48.19] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #127
+[22:48.19] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #128
+[22:48.19] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #129
+[22:48.19] http://188.68.59.198:8080
+[22:48.19] startig worker
+[22:48.19] Starting Worker #130
+[22:48.19] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #131
+[22:48.20] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #132
+[22:48.20] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #133
+[22:48.20] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #134
+[22:48.20] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #135
+[22:48.20] http://188.68.59.198:8080
+[22:48.20] startig worker
+[22:48.20] Starting Worker #136
+[22:48.20] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #137
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #138
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #139
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #140
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #141
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #142
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #143
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #144
+[22:48.21] http://188.68.59.198:8080
+[22:48.21] startig worker
+[22:48.21] Starting Worker #145
+[22:48.21] http://188.68.59.198:8080
+[22:48.22] Worker #63 connected
+[22:48.22] Worker #64 connected
+[22:48.22] Worker #65 connected
+[22:48.22] Worker #66 connected
+[22:48.22] Worker #67 connected
+[22:48.22] Worker #68 connected
+[22:48.22] Worker #69 connected
+[22:48.22] Worker #70 connected
+[22:48.22] Worker #71 connected
+[22:48.22] startig worker
+[22:48.22] Starting Worker #146
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #147
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] Worker #77 connected
+[22:48.22] Worker #78 connected
+[22:48.22] Worker #72 connected
+[22:48.22] Worker #73 connected
+[22:48.22] Worker #74 connected
+[22:48.22] Worker #75 connected
+[22:48.22] Worker #76 connected
+[22:48.22] startig worker
+[22:48.22] Starting Worker #148
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #149
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #150
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #151
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #152
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #153
+[22:48.22] http://188.68.59.198:8080
+[22:48.22] startig worker
+[22:48.22] Starting Worker #154
+[22:48.22] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #155
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #156
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #157
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #158
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #159
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #160
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #161
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #162
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #163
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #164
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #165
+[22:48.23] http://188.68.59.198:8080
+[22:48.23] startig worker
+[22:48.23] Starting Worker #166
+[22:48.23] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #167
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #168
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] Worker #80 connected
+[22:48.24] Worker #79 connected
+[22:48.24] Worker #81 connected
+[22:48.24] 681.2519066220594 messages per minute
+[22:48.24] startig worker
+[22:48.24] Starting Worker #169
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #170
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #171
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #172
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #173
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #174
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #175
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #176
+[22:48.24] http://188.68.59.198:8080
+[22:48.24] startig worker
+[22:48.24] Starting Worker #177
+[22:48.24] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #178
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #179
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #180
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #181
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #182
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #183
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #184
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #185
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #186
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #187
+[22:48.25] http://188.68.59.198:8080
+[22:48.25] startig worker
+[22:48.25] Starting Worker #188
+[22:48.25] http://188.68.59.198:8080
+[22:48.26] startig worker
+[22:48.26] Starting Worker #189
+[22:48.26] http://188.68.59.198:8080
+[22:48.26] startig worker
+[22:48.26] Starting Worker #190
+[22:48.26] http://188.68.59.198:8080
+[22:48.26] startig worker
+[22:48.26] Starting Worker #191
+[22:48.26] http://188.68.59.198:8080
+[22:48.26] Worker #84 connected
+[22:48.26] Worker #82 connected
+[22:48.26] Worker #83 connected
+[22:48.26] startig worker
+[22:48.26] Starting Worker #192
+[22:48.26] http://188.68.59.198:8080
+[22:48.26] startig worker
+[22:48.26] Starting Worker #193
+[22:48.26] http://188.68.59.198:8080
+[22:48.27] startig worker
+[22:48.27] Starting Worker #194
+[22:48.27] http://188.68.59.198:8080
+[22:48.27] startig worker
+[22:48.27] Starting Worker #195
+[22:48.27] http://188.68.59.198:8080
+[22:48.27] startig worker
+[22:48.27] Starting Worker #196
+[22:48.27] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #197
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #198
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #199
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #200
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #201
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #202
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #203
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #204
+[22:48.28] http://188.68.59.198:8080
+[22:48.28] startig worker
+[22:48.28] Starting Worker #205
+[22:48.28] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #206
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #207
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #208
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #209
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #210
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #211
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] Starting Worker #212
+[22:48.29] startig worker
+[22:48.29] http://188.68.59.198:8080
+[22:48.29] startig worker
+[22:48.29] Starting Worker #213
+[22:48.29] http://188.68.59.198:8080
+[22:48.30] startig worker
+[22:48.30] Starting Worker #214
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] startig worker
+[22:48.30] Starting Worker #215
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] startig worker
+[22:48.30] Starting Worker #216
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] startig worker
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] Starting Worker #217
+[22:48.30] Worker #85 connected
+[22:48.30] Worker #86 connected
+[22:48.30] Worker #89 connected
+[22:48.30] Worker #90 connected
+[22:48.30] Worker #87 connected
+[22:48.30] Worker #88 connected
+[22:48.30] startig worker
+[22:48.30] Starting Worker #218
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] Worker #91 connected
+[22:48.30] startig worker
+[22:48.30] Starting Worker #219
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] Worker #92 connected
+[22:48.30] Worker #96 connected
+[22:48.30] startig worker
+[22:48.30] Starting Worker #220
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] Worker #97 connected
+[22:48.30] startig worker
+[22:48.30] Starting Worker #221
+[22:48.30] http://188.68.59.198:8080
+[22:48.30] Worker #109 connected
+[22:48.30] Worker #103 connected
+[22:48.30] Worker #94 connected
+[22:48.30] Worker #93 connected
+[22:48.30] Worker #95 connected
+[22:48.30] Worker #108 connected
+[22:48.30] Worker #98 connected
+[22:48.30] Worker #99 connected
+[22:48.30] Worker #100 connected
+[22:48.30] Worker #101 connected
+[22:48.30] Worker #102 connected
+[22:48.30] Worker #104 connected
+[22:48.30] Worker #106 connected
+[22:48.30] Worker #105 connected
+[22:48.31] Worker #107 connected
+[22:48.31] Worker #110 connected
+[22:48.31] startig worker
+[22:48.31] Starting Worker #222
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #223
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #224
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #225
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #226
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #227
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #228
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #229
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #230
+[22:48.31] http://188.68.59.198:8080
+[22:48.31] startig worker
+[22:48.31] Starting Worker #231
+[22:48.31] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #232
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #233
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #234
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #235
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #236
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #237
+[22:48.32] http://188.68.59.198:8080
+[22:48.32] startig worker
+[22:48.32] Starting Worker #238
+[22:48.32] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #239
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #240
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #241
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #242
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #243
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #244
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #245
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #246
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #247
+[22:48.33] http://188.68.59.198:8080
+[22:48.33] startig worker
+[22:48.33] Starting Worker #248
+[22:48.33] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #249
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #250
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #251
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #252
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] 927.6100230919257 messages per minute
+[22:48.34] startig worker
+[22:48.34] Starting Worker #253
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #254
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #255
+[22:48.34] http://188.68.59.198:8080
+[22:48.34] startig worker
+[22:48.34] Starting Worker #256
+[22:48.34] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #257
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #258
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #259
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #260
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #261
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #262
+[22:48.35] http://188.68.59.198:8080
+[22:48.35] startig worker
+[22:48.35] Starting Worker #263
+[22:48.35] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #264
+[22:48.36] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #265
+[22:48.36] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #266
+[22:48.36] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #267
+[22:48.36] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #268
+[22:48.36] http://188.68.59.198:8080
+[22:48.36] startig worker
+[22:48.36] Starting Worker #269
+[22:48.36] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #270
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #271
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #272
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #273
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #274
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #275
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #276
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #277
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #278
+[22:48.37] http://188.68.59.198:8080
+[22:48.37] startig worker
+[22:48.37] Starting Worker #279
+[22:48.37] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #280
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #281
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #282
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #283
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #284
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #285
+[22:48.38] http://188.68.59.198:8080
+[22:48.38] startig worker
+[22:48.38] Starting Worker #286
+[22:48.38] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #287
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #288
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #289
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #290
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #291
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] Starting Worker #292
+[22:48.39] startig worker
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #293
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #294
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #295
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #296
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #297
+[22:48.39] http://188.68.59.198:8080
+[22:48.39] startig worker
+[22:48.39] Starting Worker #298
+[22:48.39] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #299
+[22:48.40] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #300
+[22:48.40] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #301
+[22:48.40] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #302
+[22:48.40] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #303
+[22:48.40] http://188.68.59.198:8080
+[22:48.40] startig worker
+[22:48.40] Starting Worker #304
+[22:48.40] http://188.68.59.198:8080
+[22:48.41] startig worker
+[22:48.41] Starting Worker #305
+[22:48.41] http://188.68.59.198:8080
+[22:48.41] startig worker
+[22:48.41] Starting Worker #306
+[22:48.41] http://188.68.59.198:8080
+[22:48.41] startig worker
+[22:48.41] Starting Worker #307
+[22:48.41] http://188.68.59.198:8080
+[22:48.41] startig worker
+[22:48.41] Starting Worker #308
+[22:48.41] http://188.68.59.198:8080
+[22:48.41] startig worker
+[22:48.41] Starting Worker #309
+[22:48.41] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #310
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #311
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #312
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #313
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #314
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #315
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #316
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #317
+[22:48.42] http://188.68.59.198:8080
+[22:48.42] startig worker
+[22:48.42] Starting Worker #318
+[22:48.42] http://188.68.59.198:8080
+[22:48.43] startig worker
+[22:48.43] Starting Worker #319
+[22:48.43] http://188.68.59.198:8080
+[22:48.43] Worker #111 connected
+[22:48.43] Worker #112 connected
+[22:48.43] Worker #113 connected
+[22:48.43] Worker #114 connected
+[22:48.43] Worker #115 connected
+[22:48.43] Worker #117 connected
+[22:48.43] Worker #116 connected
+[22:48.43] Worker #119 connected
+[22:48.43] Worker #120 connected
+[22:48.44] NaN messages per minute
+[22:48.53] Worker #63 disconnected
+[22:48.53] Worker #63 trying to reconnect
+[22:48.53] Worker #64 disconnected
+[22:48.53] Worker #64 trying to reconnect
+[22:48.53] Worker #65 disconnected
+[22:48.53] Worker #65 trying to reconnect
+[22:48.53] Worker #66 disconnected
+[22:48.53] Worker #66 trying to reconnect
+[22:48.53] Worker #67 disconnected
+[22:48.53] Worker #67 trying to reconnect
+[22:48.53] Worker #70 disconnected
+[22:48.53] Worker #70 trying to reconnect
+[22:48.53] Worker #77 disconnected
+[22:48.53] Worker #77 trying to reconnect
+[22:48.53] Worker #71 disconnected
+[22:48.53] Worker #71 trying to reconnect
+[22:48.53] Worker #72 disconnected
+[22:48.53] Worker #72 trying to reconnect
+[22:48.53] Worker #78 disconnected
+[22:48.53] Worker #78 trying to reconnect
+[22:48.53] Worker #74 disconnected
+[22:48.53] Worker #74 trying to reconnect
+[22:48.53] Worker #73 disconnected
+[22:48.53] Worker #73 trying to reconnect
+[22:48.53] Worker #69 disconnected
+[22:48.53] Worker #69 trying to reconnect
+[22:48.53] Worker #75 disconnected
+[22:48.53] Worker #75 trying to reconnect
+[22:48.53] Worker #76 disconnected
+[22:48.53] Worker #76 trying to reconnect
+[22:48.53] Worker #68 disconnected
+[22:48.53] Worker #68 trying to reconnect
+[22:48.54] NaN messages per minute
+[22:48.54] Worker #118 connected
+[22:48.54] Worker #124 connected
+[22:48.54] Worker #123 connected
+[22:48.54] Worker #121 connected
+[22:48.55] Worker #130 connected
+[22:48.55] Worker #131 connected
+[22:48.55] Worker #132 connected
+[22:48.55] Worker #134 connected
+[22:48.55] Worker #133 connected
+[22:48.55] Worker #135 connected
+[22:48.55] Worker #136 connected
+[22:48.55] Worker #137 connected
+[22:48.55] Worker #138 connected
+[22:48.55] Worker #139 connected
+[22:48.55] Worker #142 connected
+[22:48.55] Worker #143 connected
+[22:48.55] Worker #145 connected
+[22:48.55] Worker #141 connected
+[22:48.55] Worker #140 connected
+[22:48.55] Worker #122 connected
+[22:48.55] Worker #126 connected
+[22:48.55] Worker #128 connected
+[22:48.55] Worker #129 connected
+[22:48.55] Worker #127 connected
+[22:48.55] Worker #125 connected
+[22:48.56] Worker #144 connected
+[22:49.4] 1034.682169851505 messages per minute
+[22:49.8] Worker #79 disconnected
+[22:49.8] Worker #79 trying to reconnect
+[22:49.8] Worker #83 trying to reconnect
+[22:49.8] Worker #83 disconnected
+[22:49.8] Worker #80 disconnected
+[22:49.8] Worker #80 trying to reconnect
+[22:49.8] Worker #84 disconnected
+[22:49.8] Worker #84 trying to reconnect
+[22:49.8] Worker #81 disconnected
+[22:49.8] Worker #81 trying to reconnect
+[22:49.8] Worker #82 disconnected
+[22:49.8] Worker #82 trying to reconnect
+[22:49.11] Worker #111 disconnected
+[22:49.11] Worker #111 trying to reconnect
+[22:49.11] Worker #114 disconnected
+[22:49.11] Worker #114 trying to reconnect
+[22:49.11] Worker #115 disconnected
+[22:49.11] Worker #115 trying to reconnect
+[22:49.11] Worker #116 disconnected
+[22:49.11] Worker #116 trying to reconnect
+[22:49.11] Worker #117 disconnected
+[22:49.11] Worker #117 trying to reconnect
+[22:49.11] Worker #119 disconnected
+[22:49.11] Worker #119 trying to reconnect
+[22:49.14] 867.2031787656932 messages per minute
+[22:49.18] Worker #85 disconnected
+[22:49.18] Worker #85 trying to reconnect
+[22:49.18] Worker #86 disconnected
+[22:49.18] Worker #86 trying to reconnect
+[22:49.18] Worker #122 disconnected
+[22:49.18] Worker #122 trying to reconnect
+[22:49.18] Worker #90 disconnected
+[22:49.18] Worker #90 trying to reconnect
+[22:49.18] Worker #89 disconnected
+[22:49.18] Worker #89 trying to reconnect
+[22:49.18] Worker #118 disconnected
+[22:49.18] Worker #118 trying to reconnect
+[22:49.18] Worker #121 disconnected
+[22:49.18] Worker #121 trying to reconnect
+[22:49.18] Worker #123 disconnected
+[22:49.18] Worker #123 trying to reconnect
+[22:49.18] Worker #125 disconnected
+[22:49.18] Worker #125 trying to reconnect
+[22:49.18] Worker #124 disconnected
+[22:49.18] Worker #124 trying to reconnect
+[22:49.24] 786.6277154606443 messages per minute
+[22:49.34] 786.6277154606443 messages per minute
+[22:49.43] Worker #146 connected
+[22:49.44] Worker #147 connected
+[22:49.44] Worker #149 connected
+[22:49.44] Worker #150 connected
+[22:49.44] Worker #167 connected
+[22:49.44] Worker #148 connected
+[22:49.44] NaN messages per minute
+[22:49.44] Worker #166 connected
+[22:49.44] Worker #158 connected
+[22:49.44] Worker #151 connected
+[22:49.44] Worker #153 connected
+[22:49.44] Worker #152 connected
+[22:49.44] Worker #154 connected
+[22:49.44] Worker #156 connected
+[22:49.44] Worker #159 connected
+[22:49.44] Worker #161 connected
+[22:49.44] Worker #163 connected
+[22:49.44] Worker #165 connected
+[22:49.44] Worker #164 connected
+[22:49.44] Worker #162 connected
+[22:49.44] Worker #155 connected
+[22:49.44] Worker #157 connected
+[22:49.44] Worker #160 connected
+[22:49.49] Worker #112 disconnected
+[22:49.49] Worker #112 trying to reconnect
+[22:49.49] Worker #113 disconnected
+[22:49.49] Worker #113 trying to reconnect
+[22:49.49] Worker #120 disconnected
+[22:49.49] Worker #120 trying to reconnect
+[22:49.54] 1136.878848968696 messages per minute
+[22:49.55] Worker #148 disconnected
+[22:49.55] Worker #148 trying to reconnect
+[22:49.55] Worker #146 disconnected
+[22:49.55] Worker #146 trying to reconnect
+[22:49.55] Worker #155 disconnected
+[22:49.55] Worker #155 trying to reconnect
+[22:49.55] Worker #147 disconnected
+[22:49.55] Worker #147 trying to reconnect
+[22:49.55] Worker #150 disconnected
+[22:49.55] Worker #150 trying to reconnect
+[22:49.55] Worker #151 disconnected
+[22:49.55] Worker #151 trying to reconnect
+[22:49.55] Worker #149 disconnected
+[22:49.55] Worker #149 trying to reconnect
+[22:49.55] Worker #153 disconnected
+[22:49.55] Worker #153 trying to reconnect
+[22:49.55] Worker #152 disconnected
+[22:49.55] Worker #152 trying to reconnect
+[22:49.55] Worker #156 disconnected
+[22:49.55] Worker #156 trying to reconnect
+[22:49.55] Worker #157 disconnected
+[22:49.55] Worker #157 trying to reconnect
+[22:49.55] Worker #154 disconnected
+[22:49.55] Worker #154 trying to reconnect
+[22:49.55] Worker #159 disconnected
+[22:49.55] Worker #159 trying to reconnect
+[22:49.55] Worker #160 disconnected
+[22:49.55] Worker #160 trying to reconnect
+[22:49.55] Worker #158 disconnected
+[22:49.55] Worker #158 trying to reconnect
+[22:49.55] Worker #162 disconnected
+[22:49.55] Worker #162 trying to reconnect
+[22:49.55] Worker #165 disconnected
+[22:49.55] Worker #165 trying to reconnect
+[22:49.55] Worker #161 disconnected
+[22:49.55] Worker #161 trying to reconnect
+[22:49.55] Worker #166 disconnected
+[22:49.55] Worker #166 trying to reconnect
+[22:49.55] Worker #163 disconnected
+[22:49.55] Worker #163 trying to reconnect
+[22:49.55] Worker #164 disconnected
+[22:49.55] Worker #164 trying to reconnect
+[22:49.55] Worker #167 disconnected
+[22:49.55] Worker #167 trying to reconnect
+[22:50.3] Worker #168 disconnected
+[22:50.3] Worker #168 trying to reconnect
+[22:50.3] Worker #169 disconnected
+[22:50.3] Worker #169 trying to reconnect
+[22:50.3] Worker #170 disconnected
+[22:50.3] Worker #170 trying to reconnect
+[22:50.3] Worker #171 disconnected
+[22:50.3] Worker #171 trying to reconnect
+[22:50.3] Worker #172 disconnected
+[22:50.3] Worker #172 trying to reconnect
+[22:50.3] Worker #173 disconnected
+[22:50.3] Worker #173 trying to reconnect
+[22:50.3] Worker #174 disconnected
+[22:50.3] Worker #174 trying to reconnect
+[22:50.3] Worker #175 disconnected
+[22:50.3] Worker #175 trying to reconnect
+[22:50.3] Worker #176 disconnected
+[22:50.3] Worker #176 trying to reconnect
+[22:50.3] Worker #177 disconnected
+[22:50.3] Worker #177 trying to reconnect
+[22:50.3] Worker #178 trying to reconnect
+[22:50.3] Worker #178 disconnected
+[22:50.3] Worker #179 disconnected
+[22:50.3] Worker #179 trying to reconnect
+[22:50.3] Worker #180 disconnected
+[22:50.3] Worker #180 trying to reconnect
+[22:50.3] Worker #181 disconnected
+[22:50.3] Worker #181 trying to reconnect
+[22:50.3] Worker #182 disconnected
+[22:50.3] Worker #182 trying to reconnect
+[22:50.3] Worker #183 disconnected
+[22:50.3] Worker #183 trying to reconnect
+[22:50.3] Worker #184 disconnected
+[22:50.3] Worker #184 trying to reconnect
+[22:50.3] Worker #185 disconnected
+[22:50.3] Worker #185 trying to reconnect
+[22:50.3] Worker #186 disconnected
+[22:50.3] Worker #186 trying to reconnect
+[22:50.3] Worker #187 disconnected
+[22:50.3] Worker #187 trying to reconnect
+[22:50.3] Worker #188 disconnected
+[22:50.3] Worker #188 trying to reconnect
+[22:50.3] Worker #189 disconnected
+[22:50.3] Worker #189 trying to reconnect
+[22:50.3] Worker #190 disconnected
+[22:50.3] Worker #190 trying to reconnect
+[22:50.3] Worker #191 disconnected
+[22:50.3] Worker #191 trying to reconnect
+[22:50.4] 779.4324726265193 messages per minute
+[22:50.8] Worker #205 connected
+[22:50.8] Worker #203 connected
+[22:50.8] Worker #204 connected
+[22:50.8] Worker #206 connected
+[22:50.13] Worker #207 disconnected
+[22:50.13] Worker #207 trying to reconnect
+[22:50.13] Worker #208 disconnected
+[22:50.13] Worker #208 trying to reconnect
+[22:50.13] Worker #209 disconnected
+[22:50.13] Worker #209 trying to reconnect
+[22:50.13] Worker #210 disconnected
+[22:50.13] Worker #210 trying to reconnect
+[22:50.13] Worker #211 disconnected
+[22:50.13] Worker #211 trying to reconnect
+[22:50.13] Worker #212 disconnected
+[22:50.13] Worker #212 trying to reconnect
+[22:50.13] Worker #214 disconnected
+[22:50.13] Worker #214 trying to reconnect
+[22:50.13] Worker #213 disconnected
+[22:50.13] Worker #213 trying to reconnect
+[22:50.13] Worker #215 disconnected
+[22:50.13] Worker #215 trying to reconnect
+[22:50.13] Worker #216 disconnected
+[22:50.13] Worker #216 trying to reconnect
+[22:50.13] Worker #217 disconnected
+[22:50.13] Worker #217 trying to reconnect
+[22:50.14] NaN messages per minute
+[22:50.20] Worker #130 disconnected
+[22:50.20] Worker #130 trying to reconnect
+[22:50.20] Worker #131 disconnected
+[22:50.20] Worker #131 trying to reconnect
+[22:50.20] Worker #132 disconnected
+[22:50.20] Worker #132 trying to reconnect
+[22:50.20] Worker #134 disconnected
+[22:50.20] Worker #134 trying to reconnect
+[22:50.20] Worker #133 disconnected
+[22:50.20] Worker #133 trying to reconnect
+[22:50.20] Worker #135 disconnected
+[22:50.20] Worker #135 trying to reconnect
+[22:50.20] Worker #136 disconnected
+[22:50.20] Worker #136 trying to reconnect
+[22:50.20] Worker #137 disconnected
+[22:50.20] Worker #137 trying to reconnect
+[22:50.20] Worker #138 disconnected
+[22:50.20] Worker #138 trying to reconnect
+[22:50.20] Worker #139 disconnected
+[22:50.20] Worker #139 trying to reconnect
+[22:50.20] Worker #142 disconnected
+[22:50.20] Worker #142 trying to reconnect
+[22:50.20] Worker #143 disconnected
+[22:50.20] Worker #143 trying to reconnect
+[22:50.20] Worker #145 disconnected
+[22:50.20] Worker #145 trying to reconnect
+[22:50.20] Worker #141 disconnected
+[22:50.20] Worker #141 trying to reconnect
+[22:50.20] Worker #140 disconnected
+[22:50.20] Worker #140 trying to reconnect
+[22:50.20] Worker #126 disconnected
+[22:50.20] Worker #126 trying to reconnect
+[22:50.20] Worker #128 disconnected
+[22:50.20] Worker #128 trying to reconnect
+[22:50.20] Worker #129 disconnected
+[22:50.20] Worker #129 trying to reconnect
+[22:50.20] Worker #127 disconnected
+[22:50.20] Worker #127 trying to reconnect
+[22:50.21] Worker #144 disconnected
+[22:50.21] Worker #144 trying to reconnect
+[22:50.23] Worker #204 disconnected
+[22:50.23] Worker #204 trying to reconnect
+[22:50.23] Worker #205 disconnected
+[22:50.23] Worker #205 trying to reconnect
+[22:50.23] Worker #206 disconnected
+[22:50.23] Worker #206 trying to reconnect
+[22:50.23] Worker #203 disconnected
+[22:50.23] Worker #203 trying to reconnect
+[22:50.24] NaN messages per minute
+[22:50.34] NaN messages per minute
+[22:50.42] Worker #120 connected
+[22:50.42] Worker #311 connected
+[22:50.42] Worker #297 connected
+[22:50.42] Worker #301 connected
+[22:50.42] Worker #299 connected
+[22:50.42] Worker #307 connected
+[22:50.42] Worker #316 connected
+[22:50.42] Worker #207 connected
+[22:50.42] Worker #308 connected
+[22:50.42] Worker #211 connected
+[22:50.42] Worker #210 connected
+[22:50.42] Worker #317 connected
+[22:50.42] Worker #216 connected
+[22:50.42] Worker #213 connected
+[22:50.42] Worker #214 connected
+[22:50.42] Worker #313 connected
+[22:50.42] Worker #238 connected
+[22:50.42] Worker #195 connected
+[22:50.42] Worker #294 connected
+[22:50.42] Worker #113 connected
+[22:50.42] Worker #310 connected
+[22:50.42] Worker #309 connected
+[22:50.42] Worker #209 connected
+[22:50.42] Worker #312 connected
+[22:50.42] Worker #212 connected
+[22:50.42] Worker #208 connected
+[22:50.42] Worker #217 connected
+[22:50.42] Worker #306 connected
+[22:50.42] Worker #318 connected
+[22:50.42] Worker #256 connected
+[22:50.42] Worker #314 connected
+[22:50.42] Worker #249 connected
+[22:50.42] Worker #315 connected
+[22:50.42] Worker #65 connected
+[22:50.42] Worker #117 connected
+[22:50.43] Worker #305 connected
+[22:50.43] Worker #215 connected
+[22:50.44] NaN messages per minute
+[22:50.44] Worker #319 connected
+[22:50.44] Worker #77 connected
+[22:50.44] Worker #81 connected
+[22:50.44] Worker #161 connected
+[22:50.44] Worker #241 connected
+[22:50.44] Worker #218 connected
+[22:50.44] Worker #225 connected
+[22:50.44] Worker #146 connected
+[22:50.44] Worker #202 connected
+[22:50.44] Worker #140 connected
+[22:50.44] Worker #231 connected
+[22:50.45] Worker #143 connected
+[22:50.45] Worker #198 connected
+[22:50.45] Worker #200 connected
+[22:50.45] Worker #166 connected
+[22:50.45] Worker #128 connected
+[22:50.45] Worker #149 connected
+[22:50.45] Worker #219 connected
+[22:50.45] Worker #189 connected
+[22:50.45] Worker #158 connected
+[22:50.45] Worker #129 connected
+[22:50.45] Worker #243 connected
+[22:50.45] Worker #248 connected
+[22:50.45] Worker #79 connected
+[22:50.45] Worker #152 connected
+[22:50.45] Worker #247 connected
+[22:50.45] Worker #235 connected
+[22:50.45] Worker #114 connected
+[22:50.45] Worker #239 connected
+[22:50.45] Worker #180 connected
+[22:50.45] Worker #184 connected
+[22:50.45] Worker #229 connected
+[22:50.45] Worker #246 connected
+[22:50.46] Worker #171 connected
+[22:50.46] Worker #186 connected
+[22:50.46] Worker #232 connected
+[22:50.46] Worker #177 connected
+[22:50.46] Worker #90 connected
+[22:50.46] Worker #226 connected
+[22:50.46] Worker #122 connected
+[22:50.46] Worker #84 connected
+[22:50.46] Worker #260 connected
+[22:50.46] Worker #258 connected
+[22:50.46] Worker #181 connected
+[22:50.46] Worker #179 connected
+[22:50.46] Worker #123 connected
+[22:50.47] Worker #281 connected
+[22:50.47] Worker #264 connected
+[22:50.47] Worker #89 connected
+[22:50.47] Worker #252 connected
+[22:50.47] Worker #267 connected
+[22:50.47] Worker #236 connected
+[22:50.47] Worker #262 connected
+[22:50.47] Worker #178 connected
+[22:50.47] Worker #154 connected
+[22:50.47] Worker #261 connected
+[22:50.47] Worker #182 connected
+[22:50.47] Worker #224 connected
+[22:50.47] Worker #201 connected
+[22:50.47] Worker #125 connected
+[22:50.47] Worker #124 connected
+[22:50.47] Worker #250 connected
+[22:50.47] Worker #175 connected
+[22:50.47] Worker #172 connected
+[22:50.47] Worker #223 connected
+[22:50.47] Worker #82 connected
+[22:50.47] Worker #121 connected
+[22:50.48] Worker #68 connected
+[22:50.48] Worker #85 connected
+[22:50.48] Worker #222 connected
+[22:50.48] Worker #163 connected
+[22:50.48] Worker #151 connected
+[22:50.48] Worker #265 connected
+[22:50.48] Worker #148 connected
+[22:50.48] Worker #227 connected
+[22:50.48] Worker #220 connected
+[22:50.48] Worker #253 connected
+[22:50.48] Worker #168 connected
+[22:50.48] Worker #67 connected
+[22:50.48] Worker #254 connected
+[22:50.48] Worker #72 connected
+[22:50.48] Worker #170 connected
+[22:50.48] Worker #75 connected
+[22:50.48] Worker #118 connected
+[22:50.48] Worker #127 connected
+[22:50.48] Worker #126 connected
+[22:50.48] Worker #139 connected
+[22:50.48] Worker #159 connected
+[22:50.48] Worker #278 connected
+[22:50.48] Worker #230 connected
+[22:50.48] Worker #157 connected
+[22:50.49] Worker #136 connected
+[22:50.49] Worker #160 connected
+[22:50.49] Worker #134 connected
+[22:50.49] Worker #240 connected
+[22:50.49] Worker #288 connected
+[22:50.49] Worker #283 connected
+[22:50.49] Worker #155 connected
+[22:50.50] Worker #169 connected
+[22:50.50] Worker #263 connected
+[22:50.54] Worker #183 disconnected
+[22:50.54] Worker #183 trying to reconnect
+[22:50.54] Worker #191 disconnected
+[22:50.54] Worker #191 trying to reconnect
+[22:50.54] NaN messages per minute
+[22:51.4] NaN messages per minute
+[22:51.8] Worker #87 disconnected
+[22:51.8] Worker #87 trying to reconnect
+[22:51.8] Worker #88 disconnected
+[22:51.8] Worker #88 trying to reconnect
+[22:51.9] Worker #101 disconnected
+[22:51.9] Worker #101 trying to reconnect
+[22:51.9] Worker #91 disconnected
+[22:51.9] Worker #91 trying to reconnect
+[22:51.9] Worker #92 disconnected
+[22:51.9] Worker #92 trying to reconnect
+[22:51.9] Worker #97 disconnected
+[22:51.9] Worker #97 trying to reconnect
+[22:51.9] Worker #109 disconnected
+[22:51.9] Worker #109 trying to reconnect
+[22:51.9] Worker #96 disconnected
+[22:51.9] Worker #96 trying to reconnect
+[22:51.9] Worker #103 disconnected
+[22:51.9] Worker #103 trying to reconnect
+[22:51.9] Worker #93 disconnected
+[22:51.9] Worker #93 trying to reconnect
+[22:51.9] Worker #94 disconnected
+[22:51.9] Worker #94 trying to reconnect
+[22:51.9] Worker #100 disconnected
+[22:51.9] Worker #100 trying to reconnect
+[22:51.9] Worker #108 disconnected
+[22:51.9] Worker #108 trying to reconnect
+[22:51.9] Worker #95 disconnected
+[22:51.9] Worker #95 trying to reconnect
+[22:51.9] Worker #99 disconnected
+[22:51.9] Worker #99 trying to reconnect
+[22:51.9] Worker #105 disconnected
+[22:51.9] Worker #105 trying to reconnect
+[22:51.9] Worker #106 disconnected
+[22:51.9] Worker #106 trying to reconnect
+[22:51.9] Worker #107 disconnected
+[22:51.9] Worker #107 trying to reconnect
+[22:51.9] Worker #110 disconnected
+[22:51.9] Worker #110 trying to reconnect
+[22:51.9] Worker #104 disconnected
+[22:51.9] Worker #104 trying to reconnect
+[22:51.9] Worker #98 trying to reconnect
+[22:51.9] Worker #98 disconnected
+[22:51.9] Worker #102 disconnected
+[22:51.9] Worker #102 trying to reconnect
+[22:51.14] NaN messages per minute
+[22:51.24] NaN messages per minute
+[22:51.34] NaN messages per minute
+[22:51.44] NaN messages per minute
+[22:51.54] NaN messages per minute
+[22:51.57] Worker #120 disconnected
+[22:51.57] Worker #120 trying to reconnect
+[22:51.57] Worker #311 disconnected
+[22:51.57] Worker #311 trying to reconnect
+[22:51.57] Worker #308 disconnected
+[22:51.57] Worker #308 trying to reconnect
+[22:51.57] Worker #297 disconnected
+[22:51.57] Worker #297 trying to reconnect
+[22:51.57] Worker #301 disconnected
+[22:51.57] Worker #301 trying to reconnect
+[22:51.57] Worker #294 disconnected
+[22:51.57] Worker #294 trying to reconnect
+[22:51.57] Worker #307 disconnected
+[22:51.57] Worker #307 trying to reconnect
+[22:51.57] Worker #299 disconnected
+[22:51.57] Worker #299 trying to reconnect
+[22:51.57] Worker #316 disconnected
+[22:51.57] Worker #316 trying to reconnect
+[22:51.57] Worker #113 disconnected
+[22:51.57] Worker #113 trying to reconnect
+[22:51.57] Worker #312 disconnected
+[22:51.57] Worker #312 trying to reconnect
+[22:51.57] Worker #310 disconnected
+[22:51.57] Worker #310 trying to reconnect
+[22:51.57] Worker #208 disconnected
+[22:51.57] Worker #208 trying to reconnect
+[22:51.57] Worker #217 disconnected
+[22:51.57] Worker #217 trying to reconnect
+[22:51.57] Worker #207 disconnected
+[22:51.57] Worker #207 trying to reconnect
+[22:51.57] Worker #309 disconnected
+[22:51.57] Worker #309 trying to reconnect
+[22:51.57] Worker #213 disconnected
+[22:51.57] Worker #213 trying to reconnect
+[22:51.57] Worker #211 disconnected
+[22:51.57] Worker #211 trying to reconnect
+[22:51.57] Worker #210 disconnected
+[22:51.57] Worker #210 trying to reconnect
+[22:51.57] Worker #317 disconnected
+[22:51.57] Worker #317 trying to reconnect
+[22:51.57] Worker #209 disconnected
+[22:51.57] Worker #209 trying to reconnect
+[22:51.57] Worker #314 disconnected
+[22:51.57] Worker #314 trying to reconnect
+[22:51.57] Worker #216 disconnected
+[22:51.57] Worker #216 trying to reconnect
+[22:51.57] Worker #214 disconnected
+[22:51.57] Worker #214 trying to reconnect
+[22:51.57] Worker #313 disconnected
+[22:51.57] Worker #313 trying to reconnect
+[22:51.57] Worker #249 disconnected
+[22:51.57] Worker #249 trying to reconnect
+[22:51.57] Worker #238 disconnected
+[22:51.57] Worker #238 trying to reconnect
+[22:51.57] Worker #315 disconnected
+[22:51.57] Worker #315 trying to reconnect
+[22:51.57] Worker #65 disconnected
+[22:51.57] Worker #65 trying to reconnect
+[22:51.57] Worker #117 disconnected
+[22:51.57] Worker #117 trying to reconnect
+[22:51.57] Worker #195 disconnected
+[22:51.57] Worker #195 trying to reconnect
+[22:51.57] Worker #319 disconnected
+[22:51.57] Worker #319 trying to reconnect
+[22:51.57] Worker #56 disconnected
+[22:51.57] Worker #56 trying to reconnect
+[22:51.57] Worker #40 disconnected
+[22:51.57] Worker #40 trying to reconnect
+[22:51.57] Worker #52 disconnected
+[22:51.57] Worker #52 trying to reconnect
+[22:51.57] Worker #154 disconnected
+[22:51.57] Worker #154 trying to reconnect
+[22:51.57] Worker #77 disconnected
+[22:51.57] Worker #77 trying to reconnect
+[22:51.57] Worker #163 disconnected
+[22:51.57] Worker #163 trying to reconnect
+[22:51.57] Worker #160 disconnected
+[22:51.57] Worker #160 trying to reconnect
+[22:51.57] Worker #157 disconnected
+[22:51.57] Worker #157 trying to reconnect
+[22:51.57] Worker #71 trying to reconnect
+[22:51.57] Worker #71 disconnected
+[22:51.57] Worker #81 disconnected
+[22:51.57] Worker #81 trying to reconnect
+[22:51.57] Worker #240 disconnected
+[22:51.57] Worker #240 trying to reconnect
+[22:51.57] Worker #165 disconnected
+[22:51.57] Worker #165 trying to reconnect
+[22:51.57] Worker #82 disconnected
+[22:51.57] Worker #82 trying to reconnect
+[22:51.57] Worker #159 disconnected
+[22:51.57] Worker #159 trying to reconnect
+[22:51.57] Worker #227 disconnected
+[22:51.57] Worker #227 trying to reconnect
+[22:51.57] Worker #241 disconnected
+[22:51.57] Worker #241 trying to reconnect
+[22:51.57] Worker #132 disconnected
+[22:51.57] Worker #132 trying to reconnect
+[22:51.57] Worker #84 disconnected
+[22:51.57] Worker #84 trying to reconnect
+[22:51.57] Worker #225 disconnected
+[22:51.57] Worker #225 trying to reconnect
+[22:51.57] Worker #161 disconnected
+[22:51.57] Worker #161 trying to reconnect
+[22:51.57] Worker #119 disconnected
+[22:51.57] Worker #119 trying to reconnect
+[22:51.57] Worker #146 disconnected
+[22:51.57] Worker #146 trying to reconnect
+[22:51.57] Worker #164 disconnected
+[22:51.57] Worker #164 trying to reconnect
+[22:51.57] Worker #83 disconnected
+[22:51.57] Worker #83 trying to reconnect
+[22:51.57] Worker #80 disconnected
+[22:51.57] Worker #80 trying to reconnect
+[22:51.57] Worker #137 disconnected
+[22:51.57] Worker #137 trying to reconnect
+[22:51.57] Worker #147 disconnected
+[22:51.57] Worker #147 trying to reconnect
+[22:51.57] Worker #130 disconnected
+[22:51.57] Worker #130 trying to reconnect
+[22:51.57] Worker #230 disconnected
+[22:51.57] Worker #230 trying to reconnect
+[22:51.57] Worker #167 disconnected
+[22:51.57] Worker #167 trying to reconnect
+[22:51.57] Worker #234 disconnected
+[22:51.57] Worker #234 trying to reconnect
+[22:51.57] Worker #218 disconnected
+[22:51.57] Worker #218 trying to reconnect
+[22:51.57] Worker #135 disconnected
+[22:51.57] Worker #135 trying to reconnect
+[22:51.57] Worker #162 disconnected
+[22:51.57] Worker #162 trying to reconnect
+[22:51.57] Worker #148 disconnected
+[22:51.57] Worker #148 trying to reconnect
+[22:51.57] Worker #140 disconnected
+[22:51.57] Worker #140 trying to reconnect
+[22:51.57] Worker #142 disconnected
+[22:51.57] Worker #142 trying to reconnect
+[22:51.57] Worker #141 disconnected
+[22:51.57] Worker #141 trying to reconnect
+[22:51.57] Worker #145 disconnected
+[22:51.57] Worker #145 trying to reconnect
+[22:51.57] Worker #131 disconnected
+[22:51.57] Worker #131 trying to reconnect
+[22:51.57] Worker #155 disconnected
+[22:51.57] Worker #155 trying to reconnect
+[22:51.57] Worker #134 disconnected
+[22:51.57] Worker #134 trying to reconnect
+[22:51.57] Worker #69 disconnected
+[22:51.57] Worker #69 trying to reconnect
+[22:51.57] Worker #151 disconnected
+[22:51.57] Worker #151 trying to reconnect
+[22:51.57] Worker #67 disconnected
+[22:51.57] Worker #67 trying to reconnect
+[22:51.57] Worker #127 disconnected
+[22:51.57] Worker #127 trying to reconnect
+[22:51.57] Worker #136 disconnected
+[22:51.57] Worker #136 trying to reconnect
+[22:51.57] Worker #231 disconnected
+[22:51.57] Worker #231 trying to reconnect
+[22:51.57] Worker #63 disconnected
+[22:51.57] Worker #63 trying to reconnect
+[22:51.57] Worker #126 trying to reconnect
+[22:51.57] Worker #126 disconnected
+[22:51.57] Worker #133 disconnected
+[22:51.57] Worker #133 trying to reconnect
+[22:51.57] Worker #138 disconnected
+[22:51.57] Worker #138 trying to reconnect
+[22:51.57] Worker #66 disconnected
+[22:51.57] Worker #66 trying to reconnect
+[22:51.57] Worker #245 disconnected
+[22:51.57] Worker #245 trying to reconnect
+[22:51.57] Worker #139 disconnected
+[22:51.57] Worker #139 trying to reconnect
+[22:51.57] Worker #153 disconnected
+[22:51.57] Worker #153 trying to reconnect
+[22:51.57] Worker #198 disconnected
+[22:51.57] Worker #198 trying to reconnect
+[22:51.57] Worker #200 disconnected
+[22:51.57] Worker #200 trying to reconnect
+[22:51.57] Worker #196 disconnected
+[22:51.57] Worker #196 trying to reconnect
+[22:51.57] Worker #187 disconnected
+[22:51.57] Worker #187 trying to reconnect
+[22:51.57] Worker #185 disconnected
+[22:51.57] Worker #185 trying to reconnect
+[22:51.57] Worker #202 disconnected
+[22:51.57] Worker #202 trying to reconnect
+[22:51.57] Worker #189 disconnected
+[22:51.57] Worker #189 trying to reconnect
+[22:51.57] Worker #116 disconnected
+[22:51.57] Worker #116 trying to reconnect
+[22:51.57] Worker #242 disconnected
+[22:51.57] Worker #242 trying to reconnect
+[22:51.57] Worker #237 disconnected
+[22:51.57] Worker #237 trying to reconnect
+[22:51.57] Worker #156 disconnected
+[22:51.57] Worker #156 trying to reconnect
+[22:51.57] Worker #243 disconnected
+[22:51.57] Worker #243 trying to reconnect
+[22:51.57] Worker #143 disconnected
+[22:51.57] Worker #143 trying to reconnect
+[22:51.57] Worker #152 disconnected
+[22:51.57] Worker #152 trying to reconnect
+[22:51.57] Worker #166 disconnected
+[22:51.57] Worker #166 trying to reconnect
+[22:51.57] Worker #247 disconnected
+[22:51.57] Worker #247 trying to reconnect
+[22:51.57] Worker #149 disconnected
+[22:51.57] Worker #149 trying to reconnect
+[22:51.57] Worker #128 disconnected
+[22:51.57] Worker #128 trying to reconnect
+[22:51.57] Worker #219 disconnected
+[22:51.57] Worker #219 trying to reconnect
+[22:51.57] Worker #158 disconnected
+[22:51.57] Worker #158 trying to reconnect
+[22:51.57] Worker #129 disconnected
+[22:51.57] Worker #129 trying to reconnect
+[22:51.57] Worker #248 disconnected
+[22:51.57] Worker #248 trying to reconnect
+[22:51.57] Worker #79 disconnected
+[22:51.57] Worker #79 trying to reconnect
+[22:51.57] Worker #235 disconnected
+[22:51.57] Worker #235 trying to reconnect
+[22:51.57] Worker #114 disconnected
+[22:51.57] Worker #114 trying to reconnect
+[22:51.57] Worker #74 disconnected
+[22:51.57] Worker #74 trying to reconnect
+[22:51.57] Worker #70 disconnected
+[22:51.57] Worker #70 trying to reconnect
+[22:51.57] Worker #204 disconnected
+[22:51.57] Worker #204 trying to reconnect
+[22:51.57] Worker #205 disconnected
+[22:51.57] Worker #205 trying to reconnect
+[22:51.58] Worker #239 disconnected
+[22:51.58] Worker #239 trying to reconnect
+[22:51.58] Worker #180 disconnected
+[22:51.58] Worker #180 trying to reconnect
+[22:51.58] Worker #184 disconnected
+[22:51.58] Worker #184 trying to reconnect
+[22:51.58] Worker #229 disconnected
+[22:51.58] Worker #229 trying to reconnect
+[22:51.58] Worker #246 disconnected
+[22:51.58] Worker #246 trying to reconnect
+[22:51.58] Worker #186 disconnected
+[22:51.58] Worker #186 trying to reconnect
+[22:51.58] Worker #171 disconnected
+[22:51.58] Worker #171 trying to reconnect
+[22:51.58] Worker #232 disconnected
+[22:51.58] Worker #232 trying to reconnect
+[22:51.58] Worker #90 disconnected
+[22:51.58] Worker #90 trying to reconnect
+[22:51.58] Worker #123 disconnected
+[22:51.58] Worker #123 trying to reconnect
+[22:51.58] Worker #177 disconnected
+[22:51.58] Worker #177 trying to reconnect
+[22:51.58] Worker #64 disconnected
+[22:51.58] Worker #64 trying to reconnect
+[22:51.58] Worker #244 disconnected
+[22:51.58] Worker #244 trying to reconnect
+[22:51.58] Worker #224 disconnected
+[22:51.58] Worker #224 trying to reconnect
+[22:51.58] Worker #264 disconnected
+[22:51.58] Worker #264 trying to reconnect
+[22:51.58] Worker #181 disconnected
+[22:51.58] Worker #181 trying to reconnect
+[22:51.58] Worker #226 disconnected
+[22:51.58] Worker #226 trying to reconnect
+[22:51.58] Worker #252 disconnected
+[22:51.58] Worker #252 trying to reconnect
+[22:51.58] Worker #260 disconnected
+[22:51.58] Worker #260 trying to reconnect
+[22:51.58] Worker #258 disconnected
+[22:51.58] Worker #258 trying to reconnect
+[22:51.58] Worker #122 disconnected
+[22:51.58] Worker #122 trying to reconnect
+[22:51.58] Worker #254 disconnected
+[22:51.58] Worker #254 trying to reconnect
+[22:51.58] Worker #89 disconnected
+[22:51.58] Worker #89 trying to reconnect
+[22:51.58] Worker #178 disconnected
+[22:51.58] Worker #178 trying to reconnect
+[22:51.58] Worker #75 disconnected
+[22:51.58] Worker #75 trying to reconnect
+[22:51.58] Worker #222 disconnected
+[22:51.58] Worker #222 trying to reconnect
+[22:51.58] Worker #86 disconnected
+[22:51.58] Worker #86 trying to reconnect
+[22:51.58] Worker #251 disconnected
+[22:51.58] Worker #251 trying to reconnect
+[22:51.58] Worker #179 disconnected
+[22:51.58] Worker #179 trying to reconnect
+[22:51.58] Worker #125 disconnected
+[22:51.58] Worker #125 trying to reconnect
+[22:51.58] Worker #228 disconnected
+[22:51.58] Worker #228 trying to reconnect
+[22:51.58] Worker #76 disconnected
+[22:51.58] Worker #76 trying to reconnect
+[22:51.58] Worker #85 disconnected
+[22:51.58] Worker #85 trying to reconnect
+[22:51.58] Worker #168 disconnected
+[22:51.58] Worker #168 trying to reconnect
+[22:51.58] Worker #173 disconnected
+[22:51.58] Worker #173 trying to reconnect
+[22:51.58] Worker #199 disconnected
+[22:51.58] Worker #199 trying to reconnect
+[22:51.58] Worker #201 disconnected
+[22:51.58] Worker #201 trying to reconnect
+[22:51.58] Worker #265 disconnected
+[22:51.58] Worker #265 trying to reconnect
+[22:51.58] Worker #236 disconnected
+[22:51.58] Worker #236 trying to reconnect
+[22:51.58] Worker #170 disconnected
+[22:51.58] Worker #170 trying to reconnect
+[22:51.58] Worker #118 disconnected
+[22:51.58] Worker #118 trying to reconnect
+[22:51.58] Worker #221 disconnected
+[22:51.58] Worker #221 trying to reconnect
+[22:51.58] Worker #253 disconnected
+[22:51.58] Worker #253 trying to reconnect
+[22:51.58] Worker #121 disconnected
+[22:51.58] Worker #121 trying to reconnect
+[22:51.58] Worker #223 disconnected
+[22:51.58] Worker #223 trying to reconnect
+[22:51.58] Worker #169 disconnected
+[22:51.58] Worker #169 trying to reconnect
+[22:51.58] Worker #72 disconnected
+[22:51.58] Worker #72 trying to reconnect
+[22:51.58] Worker #78 disconnected
+[22:51.58] Worker #78 trying to reconnect
+[22:51.58] Worker #255 disconnected
+[22:51.58] Worker #255 trying to reconnect
+[22:51.58] Worker #192 disconnected
+[22:51.58] Worker #192 trying to reconnect
+[22:51.58] Worker #73 disconnected
+[22:51.58] Worker #73 trying to reconnect
+[22:51.58] Worker #233 disconnected
+[22:51.58] Worker #233 trying to reconnect
+[22:51.58] Worker #206 disconnected
+[22:51.58] Worker #206 trying to reconnect
+[22:51.58] Worker #188 disconnected
+[22:51.58] Worker #188 trying to reconnect
+[22:51.58] Worker #193 disconnected
+[22:51.58] Worker #193 trying to reconnect
+[22:51.58] Worker #194 disconnected
+[22:51.58] Worker #194 trying to reconnect
+[22:51.58] Worker #203 disconnected
+[22:51.58] Worker #203 trying to reconnect
+[22:51.58] Worker #111 disconnected
+[22:51.58] Worker #111 trying to reconnect
+[22:51.58] Worker #197 disconnected
+[22:51.58] Worker #197 trying to reconnect
+[22:51.58] Worker #144 disconnected
+[22:51.58] Worker #144 trying to reconnect
+[22:51.58] Worker #150 disconnected
+[22:51.58] Worker #150 trying to reconnect
+[22:51.58] Worker #115 disconnected
+[22:51.58] Worker #115 trying to reconnect
+[22:52.4] NaN messages per minute
+[22:52.6] Worker #51 disconnected
+[22:52.6] Worker #51 trying to reconnect
+[22:52.7] Worker #263 disconnected
+[22:52.7] Worker #263 trying to reconnect
+[22:52.7] Worker #261 disconnected
+[22:52.7] Worker #261 trying to reconnect
+[22:52.7] Worker #124 trying to reconnect
+[22:52.7] Worker #124 disconnected
+[22:52.7] Worker #262 disconnected
+[22:52.7] Worker #262 trying to reconnect
+[22:52.7] Worker #281 disconnected
+[22:52.7] Worker #281 trying to reconnect
+[22:52.7] Worker #250 disconnected
+[22:52.7] Worker #250 trying to reconnect
+[22:52.7] Worker #68 disconnected
+[22:52.7] Worker #68 trying to reconnect
+[22:52.7] Worker #24 disconnected
+[22:52.7] Worker #24 trying to reconnect
+[22:52.7] Worker #49 disconnected
+[22:52.7] Worker #49 trying to reconnect
+[22:52.7] Worker #1 disconnected
+[22:52.7] Worker #1 trying to reconnect
+[22:52.8] Worker #18 disconnected
+[22:52.8] Worker #18 trying to reconnect
+[22:52.8] Worker #12 disconnected
+[22:52.8] Worker #12 trying to reconnect
+[22:52.8] Worker #42 disconnected
+[22:52.8] Worker #42 trying to reconnect
+[22:52.8] Worker #27 disconnected
+[22:52.8] Worker #27 trying to reconnect
+[22:52.8] Worker #45 disconnected
+[22:52.8] Worker #45 trying to reconnect
+[22:52.8] Worker #20 disconnected
+[22:52.8] Worker #20 trying to reconnect
+[22:52.8] Worker #7 disconnected
+[22:52.8] Worker #7 trying to reconnect
+[22:52.8] Worker #30 disconnected
+[22:52.8] Worker #30 trying to reconnect
+[22:52.8] Worker #36 disconnected
+[22:52.8] Worker #36 trying to reconnect
+[22:52.8] Worker #44 disconnected
+[22:52.8] Worker #44 trying to reconnect
+[22:52.8] Worker #48 disconnected
+[22:52.8] Worker #48 trying to reconnect
+[22:52.8] Worker #61 disconnected
+[22:52.8] Worker #61 trying to reconnect
+[22:52.8] Worker #0 disconnected
+[22:52.8] Worker #0 trying to reconnect
+[22:52.8] Worker #8 disconnected
+[22:52.8] Worker #8 trying to reconnect
+[22:52.8] Worker #43 disconnected
+[22:52.8] Worker #43 trying to reconnect
+[22:52.8] Worker #50 disconnected
+[22:52.8] Worker #50 trying to reconnect
+[22:52.8] Worker #21 disconnected
+[22:52.8] Worker #21 trying to reconnect
+[22:52.8] Worker #37 disconnected
+[22:52.8] Worker #37 trying to reconnect
+[22:52.9] Worker #15 disconnected
+[22:52.9] Worker #15 trying to reconnect
+[22:52.9] Worker #17 disconnected
+[22:52.9] Worker #17 trying to reconnect
+[22:52.9] Worker #39 disconnected
+[22:52.9] Worker #39 trying to reconnect
+[22:52.9] Worker #38 disconnected
+[22:52.9] Worker #38 trying to reconnect
+[22:52.9] Worker #16 disconnected
+[22:52.9] Worker #16 trying to reconnect
+[22:52.9] Worker #5 disconnected
+[22:52.9] Worker #5 trying to reconnect
+[22:52.9] Worker #9 disconnected
+[22:52.9] Worker #9 trying to reconnect
+[22:52.9] Worker #19 disconnected
+[22:52.9] Worker #19 trying to reconnect
+[22:52.9] Worker #29 disconnected
+[22:52.9] Worker #29 trying to reconnect
+[22:52.9] Worker #13 disconnected
+[22:52.9] Worker #13 trying to reconnect
+[22:52.9] Worker #26 disconnected
+[22:52.9] Worker #26 trying to reconnect
+[22:52.9] Worker #53 disconnected
+[22:52.9] Worker #53 trying to reconnect
+[22:52.9] Worker #267 disconnected
+[22:52.9] Worker #267 trying to reconnect
+[22:52.9] Worker #175 disconnected
+[22:52.9] Worker #175 trying to reconnect
+[22:52.9] Worker #278 disconnected
+[22:52.9] Worker #278 trying to reconnect
+[22:52.9] Worker #172 disconnected
+[22:52.9] Worker #172 trying to reconnect
+[22:52.10] Worker #32 disconnected
+[22:52.10] Worker #32 trying to reconnect
+[22:52.10] Worker #46 disconnected
+[22:52.10] Worker #46 trying to reconnect
+[22:52.10] Worker #47 disconnected
+[22:52.10] Worker #47 trying to reconnect
+[22:52.10] Worker #33 disconnected
+[22:52.10] Worker #33 trying to reconnect
+[22:52.10] Worker #6 disconnected
+[22:52.10] Worker #6 trying to reconnect
+[22:52.10] Worker #4 disconnected
+[22:52.10] Worker #4 trying to reconnect
+[22:52.10] Worker #25 disconnected
+[22:52.10] Worker #25 trying to reconnect
+[22:52.10] Worker #62 disconnected
+[22:52.10] Worker #62 trying to reconnect
+[22:52.10] Worker #11 disconnected
+[22:52.10] Worker #11 trying to reconnect
+[22:52.10] Worker #22 disconnected
+[22:52.10] Worker #22 trying to reconnect
+[22:52.10] Worker #220 disconnected
+[22:52.10] Worker #220 trying to reconnect
+[22:52.10] Worker #176 disconnected
+[22:52.10] Worker #176 trying to reconnect
+[22:52.11] Worker #182 disconnected
+[22:52.11] Worker #182 trying to reconnect
+[22:52.11] Worker #41 disconnected
+[22:52.11] Worker #41 trying to reconnect
+[22:52.11] Worker #60 disconnected
+[22:52.11] Worker #60 trying to reconnect
+[22:52.11] Worker #14 disconnected
+[22:52.11] Worker #14 trying to reconnect
+[22:52.11] Worker #55 disconnected
+[22:52.11] Worker #55 trying to reconnect
+[22:52.11] Worker #31 disconnected
+[22:52.11] Worker #31 trying to reconnect
+[22:52.11] Worker #34 disconnected
+[22:52.11] Worker #34 trying to reconnect
+[22:52.11] Worker #282 disconnected
+[22:52.11] Worker #282 trying to reconnect
+[22:52.11] Worker #287 disconnected
+[22:52.11] Worker #287 trying to reconnect
+[22:52.11] Worker #274 disconnected
+[22:52.11] Worker #274 trying to reconnect
+[22:52.11] Worker #57 disconnected
+[22:52.11] Worker #57 trying to reconnect
+[22:52.11] Worker #288 disconnected
+[22:52.11] Worker #288 trying to reconnect
+[22:52.11] Worker #289 disconnected
+[22:52.11] Worker #289 trying to reconnect
+[22:52.11] Worker #283 disconnected
+[22:52.11] Worker #283 trying to reconnect
+[22:52.11] Worker #295 disconnected
+[22:52.11] Worker #295 trying to reconnect
+[22:52.11] Worker #269 disconnected
+[22:52.11] Worker #269 trying to reconnect
+[22:52.11] Worker #59 disconnected
+[22:52.11] Worker #59 trying to reconnect
+[22:52.12] Worker #257 disconnected
+[22:52.12] Worker #257 trying to reconnect
+[22:52.12] Worker #112 disconnected
+[22:52.12] Worker #112 trying to reconnect
+[22:52.12] Worker #303 disconnected
+[22:52.12] Worker #303 trying to reconnect
+[22:52.12] Worker #290 disconnected
+[22:52.12] Worker #290 trying to reconnect
+[22:52.12] Worker #271 disconnected
+[22:52.12] Worker #271 trying to reconnect
+[22:52.12] Worker #276 disconnected
+[22:52.12] Worker #276 trying to reconnect
+[22:52.13] Worker #298 disconnected
+[22:52.13] Worker #298 trying to reconnect
+[22:52.14] Worker #302 disconnected
+[22:52.14] Worker #302 trying to reconnect
+[22:52.14] Worker #286 disconnected
+[22:52.14] Worker #286 trying to reconnect
+[22:52.14] Worker #279 disconnected
+[22:52.14] Worker #279 trying to reconnect
+[22:52.14] Worker #273 disconnected
+[22:52.14] Worker #273 trying to reconnect
+[22:52.14] NaN messages per minute
+[22:52.14] Worker #3 disconnected
+[22:52.14] Worker #3 trying to reconnect
+[22:52.21] Worker #10 disconnected
+[22:52.21] Worker #10 trying to reconnect
+[22:52.22] Worker #23 disconnected
+[22:52.22] Worker #23 trying to reconnect
+[22:52.22] Worker #318 disconnected
+[22:52.22] Worker #318 trying to reconnect
+[22:52.22] Worker #58 disconnected
+[22:52.22] Worker #58 trying to reconnect
+[22:52.22] Worker #305 trying to reconnect
+[22:52.22] Worker #305 disconnected
+[22:52.22] Worker #306 disconnected
+[22:52.22] Worker #306 trying to reconnect
+[22:52.22] Worker #212 disconnected
+[22:52.22] Worker #212 trying to reconnect
+[22:52.22] Worker #35 disconnected
+[22:52.22] Worker #35 trying to reconnect
+[22:52.22] Worker #2 disconnected
+[22:52.22] Worker #2 trying to reconnect
+[22:52.22] Worker #54 disconnected
+[22:52.22] Worker #54 trying to reconnect
+[22:52.22] Worker #215 disconnected
+[22:52.22] Worker #215 trying to reconnect
+[22:52.22] Worker #256 disconnected
+[22:52.22] Worker #256 trying to reconnect
+[22:52.23] Worker #28 disconnected
+[22:52.23] Worker #28 trying to reconnect
+[22:52.24] NaN messages per minute
