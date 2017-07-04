@@ -1,0 +1,9 @@
+html {
+    font-family: sans-serif;
+}
+.mpm_status {
+    font-size: 30px;
+}
+.worker_status {
+    font-size: 20px;
+}
