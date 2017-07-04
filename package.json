@@ -1,0 +1,9 @@
+{
+    "name": "stresstest",
+    "description": "Stresstest for ChatJS",
+    "author": "https://github.com/AlexPlayin",
+    "dependencies": {
+        "express": "^4.13.4",
+        "socket.io-client": "*"
+    }
+}
