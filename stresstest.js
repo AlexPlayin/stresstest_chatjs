@@ -31,7 +31,6 @@ function main() {
 
 
     }
-    startworker();
 
     function worker(id, m_amount, c_amount, username) {
         var interval = Math.round(Math.random() * 40000);
@@ -83,7 +82,7 @@ function main() {
     }
     for (var i = 0; i < w_amount; i++) {
          var interval = Math.round(Math.random() * 40000);
-        setTimeout(startworker(),interval);
+        setTimeout(function () {startworker();},interval);
     }
     setInterval(function () {
         log(all_m + ' messages per minute');

@@ -20233,3 +20233,1584 @@
 [12:47.27] Worker #287 disconnected
 [12:47.27] Worker #287 trying to reconnect
 [12:47.30] -13.311906294519947 messages per minute
+[18:23.33] Starting...
+[18:23.33] Starting Worker #0
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #1
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #2
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #3
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #4
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #5
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #6
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #7
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #8
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #9
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #10
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #11
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #12
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #13
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #14
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #15
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #16
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #17
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #18
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #19
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #20
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #21
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #22
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #23
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #24
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #25
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #26
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #27
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #28
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #29
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #30
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #31
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #32
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #33
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #34
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #35
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #36
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #37
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #38
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #39
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #40
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #41
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #42
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #43
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #44
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #45
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #46
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #47
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #48
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #49
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #50
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #51
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #52
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #53
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #54
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #55
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #56
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #57
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #58
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #59
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #60
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #61
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #62
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #63
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #64
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #65
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #66
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #67
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #68
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #69
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #70
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #71
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #72
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #73
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #74
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #75
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #76
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #77
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #78
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #79
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #80
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #81
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #82
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #83
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #84
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #85
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #86
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #87
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #88
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #89
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #90
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #91
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #92
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #93
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #94
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #95
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #96
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #97
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #98
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #99
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #100
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #101
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #102
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #103
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #104
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #105
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #106
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #107
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #108
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #109
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #110
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #111
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #112
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #113
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #114
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #115
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #116
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #117
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #118
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #119
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #120
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #121
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #122
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #123
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #124
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #125
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #126
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #127
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #128
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #129
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #130
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #131
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #132
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #133
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #134
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #135
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #136
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #137
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #138
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #139
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #140
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #141
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #142
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #143
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #144
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #145
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #146
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #147
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #148
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #149
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #150
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #151
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #152
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #153
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #154
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #155
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #156
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #157
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #158
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #159
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #160
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #161
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #162
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #163
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #164
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #165
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #166
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #167
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #168
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #169
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #170
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #171
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #172
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #173
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #174
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #175
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #176
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #177
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #178
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #179
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #180
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #181
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #182
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #183
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #184
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #185
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #186
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #187
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #188
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #189
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #190
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #191
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #192
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #193
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #194
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #195
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #196
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #197
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #198
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #199
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #200
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #201
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #202
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #203
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #204
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #205
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #206
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #207
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #208
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #209
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #210
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #211
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #212
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #213
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #214
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #215
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #216
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #217
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #218
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #219
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #220
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #221
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #222
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #223
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #224
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #225
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #226
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #227
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #228
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #229
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #230
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #231
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #232
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #233
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #234
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #235
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #236
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #237
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #238
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #239
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #240
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #241
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #242
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #243
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #244
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #245
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #246
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #247
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #248
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #249
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #250
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #251
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #252
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #253
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #254
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #255
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #256
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #257
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #258
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #259
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #260
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #261
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #262
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #263
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #264
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #265
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #266
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #267
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #268
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #269
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #270
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #271
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #272
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #273
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #274
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #275
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #276
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #277
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #278
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #279
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #280
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #281
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #282
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #283
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #284
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #285
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #286
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #287
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #288
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #289
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #290
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #291
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #292
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #293
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #294
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #295
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #296
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #297
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #298
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #299
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #300
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #301
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #302
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #303
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #304
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #305
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #306
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #307
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #308
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #309
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #310
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #311
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #312
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #313
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #314
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #315
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #316
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #317
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #318
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #319
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #320
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #321
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #322
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #323
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #324
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #325
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #326
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #327
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #328
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #329
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #330
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #331
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #332
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #333
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #334
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #335
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #336
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #337
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #338
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #339
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #340
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #341
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #342
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #343
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #344
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #345
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #346
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #347
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #348
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #349
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #350
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #351
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #352
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #353
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #354
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #355
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #356
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #357
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #358
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #359
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #360
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #361
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #362
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #363
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #364
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #365
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #366
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #367
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #368
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #369
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #370
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #371
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #372
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #373
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #374
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #375
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #376
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #377
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #378
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #379
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #380
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #381
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #382
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #383
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #384
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #385
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #386
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #387
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #388
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #389
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #390
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #391
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #392
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #393
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #394
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #395
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #396
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #397
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #398
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #399
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #400
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #401
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #402
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #403
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #404
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #405
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #406
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #407
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #408
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #409
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #410
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #411
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #412
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #413
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #414
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #415
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #416
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #417
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #418
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #419
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #420
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #421
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #422
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #423
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #424
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #425
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #426
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #427
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #428
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #429
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #430
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #431
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #432
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #433
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #434
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #435
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #436
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #437
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #438
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #439
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #440
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #441
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #442
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #443
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #444
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #445
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #446
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #447
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #448
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #449
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #450
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #451
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #452
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #453
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #454
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #455
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #456
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #457
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #458
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #459
+[18:23.33] Starting Worker #460
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #461
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #462
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #463
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #464
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #465
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #466
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #467
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #468
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #469
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #470
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #471
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #472
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #473
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #474
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #475
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #476
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #477
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #478
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #479
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #480
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #481
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #482
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #483
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #484
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #485
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #486
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #487
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #488
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #489
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #490
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #491
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #492
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #493
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #494
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #495
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #496
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #497
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #498
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #499
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Starting Worker #500
+[18:23.33] http://188.68.59.198:8080
+[18:23.33] Worker #0 connected
+[18:23.33] Worker #1 connected
+[18:23.33] Worker #13 connected
+[18:23.33] Worker #12 connected
+[18:23.33] Worker #14 connected
+[18:23.33] Worker #15 connected
+[18:23.33] Worker #16 connected
+[18:23.33] Worker #17 connected
+[18:23.33] Worker #36 connected
+[18:23.33] Worker #35 connected
+[18:23.33] Worker #38 connected
+[18:23.33] Worker #37 connected
+[18:23.34] Worker #39 connected
+[18:23.34] Worker #40 connected
+[18:23.34] Worker #80 connected
+[18:23.34] Worker #84 connected
+[18:23.34] Worker #86 connected
+[18:23.34] Worker #87 connected
+[18:23.34] Worker #88 connected
+[18:23.34] Worker #89 connected
+[18:23.34] Worker #90 connected
+[18:23.34] Worker #91 connected
+[18:23.34] Worker #24 connected
+[18:23.34] Worker #48 connected
+[18:23.34] Worker #44 connected
+[18:23.34] Worker #46 connected
+[18:23.34] Worker #51 connected
+[18:23.34] Worker #50 connected
+[18:23.34] Worker #49 connected
+[18:23.34] Worker #62 connected
+[18:23.34] Worker #111 connected
+[18:23.34] Worker #109 connected
+[18:23.34] Worker #107 connected
+[18:23.34] Worker #78 connected
+[18:23.34] Worker #77 connected
+[18:23.34] Worker #75 connected
+[18:23.34] Worker #74 connected
+[18:23.34] Worker #76 connected
+[18:23.34] Worker #71 connected
+[18:23.34] Worker #72 connected
+[18:23.34] Worker #102 connected
+[18:23.34] Worker #101 connected
+[18:23.34] Worker #100 connected
+[18:23.34] Worker #138 connected
+[18:23.34] Worker #47 connected
+[18:23.34] Worker #45 connected
+[18:23.34] Worker #52 connected
+[18:23.34] Worker #53 connected
+[18:23.34] Worker #55 connected
+[18:23.34] Worker #136 connected
+[18:23.34] Worker #54 connected
+[18:23.34] Worker #95 connected
+[18:23.34] Worker #93 connected
+[18:23.34] Worker #94 connected
+[18:23.34] Worker #96 connected
+[18:23.34] Worker #85 connected
+[18:23.34] Worker #4 connected
+[18:23.34] Worker #32 connected
+[18:23.34] Worker #31 connected
+[18:23.34] Worker #5 connected
+[18:23.35] Worker #116 connected
+[18:23.35] Worker #140 connected
+[18:23.35] Worker #66 connected
+[18:23.35] Worker #68 connected
+[18:23.35] Worker #81 connected
+[18:23.35] Worker #67 connected
+[18:23.35] Worker #69 connected
+[18:23.35] Worker #70 connected
+[18:23.35] Worker #79 connected
+[18:23.35] Worker #112 connected
+[18:23.35] Worker #182 connected
+[18:23.35] Worker #110 connected
+[18:23.35] Worker #61 connected
+[18:23.35] Worker #98 connected
+[18:23.35] Worker #97 connected
+[18:23.35] Worker #92 connected
+[18:23.35] Worker #108 connected
+[18:23.35] Worker #106 connected
+[18:23.35] Worker #105 connected
+[18:23.35] Worker #407 connected
+[18:23.35] Worker #445 connected
+[18:23.35] Worker #444 connected
+[18:23.35] Worker #483 connected
+[18:23.35] Worker #482 connected
+[18:23.35] Worker #200 connected
+[18:23.35] Worker #272 connected
+[18:23.35] Worker #56 connected
+[18:23.35] Worker #57 connected
+[18:23.35] Worker #498 connected
+[18:23.35] Worker #122 connected
+[18:23.35] Worker #103 connected
+[18:23.35] Worker #118 connected
+[18:23.35] Worker #117 connected
+[18:23.35] Worker #121 connected
+[18:23.35] Worker #114 connected
+[18:23.35] Worker #137 connected
+[18:23.35] Worker #222 connected
+[18:23.35] Worker #392 connected
+[18:23.35] Worker #415 connected
+[18:23.35] Worker #414 connected
+[18:23.35] Worker #413 connected
+[18:23.35] Worker #423 connected
+[18:23.35] Worker #443 connected
+[18:23.35] Worker #489 connected
+[18:23.35] Worker #453 connected
+[18:23.35] Worker #126 connected
+[18:23.35] Worker #125 connected
+[18:23.35] Worker #143 connected
+[18:23.35] Worker #132 connected
+[18:23.35] Worker #146 connected
+[18:23.35] Worker #142 connected
+[18:23.35] Worker #158 connected
+[18:23.35] Worker #3 connected
+[18:23.35] Worker #220 connected
+[18:23.35] Worker #113 connected
+[18:23.35] Worker #135 connected
+[18:23.35] Worker #120 connected
+[18:23.35] Worker #99 connected
+[18:23.35] Worker #330 connected
+[18:23.35] Worker #292 connected
+[18:23.35] Worker #115 connected
+[18:23.35] Worker #73 connected
+[18:23.35] Worker #130 connected
+[18:23.35] Worker #153 connected
+[18:23.35] Worker #405 connected
+[18:23.35] Worker #152 connected
+[18:23.35] Worker #151 connected
+[18:23.35] Worker #148 connected
+[18:23.35] Worker #145 connected
+[18:23.35] Worker #177 connected
+[18:23.35] Worker #134 connected
+[18:23.35] Worker #176 connected
+[18:23.35] Worker #133 connected
+[18:23.35] Worker #396 connected
+[18:23.35] Worker #42 connected
+[18:23.35] Worker #342 connected
+[18:23.35] Worker #480 connected
+[18:23.35] Worker #82 connected
+[18:23.36] Worker #144 connected
+[18:23.36] Worker #83 connected
+[18:23.36] Worker #139 connected
+[18:23.36] Worker #395 connected
+[18:23.36] Worker #438 connected
+[18:23.36] Worker #460 connected
+[18:23.36] Worker #221 connected
+[18:23.36] Worker #131 connected
+[18:23.36] Worker #281 connected
+[18:23.36] Worker #496 connected
+[18:23.36] Worker #6 connected
+[18:23.36] Worker #28 connected
+[18:23.36] Worker #450 connected
+[18:23.36] Worker #391 connected
+[18:23.36] Worker #119 connected
+[18:23.36] Worker #180 connected
+[18:23.36] Worker #170 connected
+[18:23.36] Worker #8 connected
+[18:23.36] Worker #215 connected
+[18:23.36] Worker #21 connected
+[18:23.36] Worker #26 connected
+[18:23.36] Worker #65 connected
+[18:23.36] Worker #123 connected
+[18:23.36] Worker #163 connected
+[18:23.36] Worker #202 connected
+[18:23.36] Worker #422 connected
+[18:23.36] Worker #500 connected
+[18:23.36] Worker #406 connected
+[18:23.36] Worker #156 connected
+[18:23.36] Worker #43 connected
+[18:23.36] Worker #20 connected
+[18:23.36] Worker #149 connected
+[18:23.36] Worker #147 connected
+[18:23.36] Worker #178 connected
+[18:23.36] Worker #23 connected
+[18:23.36] Worker #172 connected
+[18:23.36] Worker #481 connected
+[18:23.36] Worker #174 connected
+[18:23.36] Worker #217 connected
+[18:23.36] Worker #291 connected
+[18:23.36] Worker #393 connected
+[18:23.36] Worker #18 connected
+[18:23.36] Worker #10 connected
+[18:23.36] Worker #394 connected
+[18:23.36] Worker #124 connected
+[18:23.36] Worker #22 connected
+[18:23.36] Worker #27 connected
+[18:23.36] Worker #451 connected
+[18:23.36] Worker #128 connected
+[18:23.36] Worker #421 connected
+[18:23.36] Worker #175 connected
+[18:23.36] Worker #157 connected
+[18:23.36] Worker #457 connected
+[18:23.36] Worker #173 connected
+[18:23.36] Worker #171 connected
+[18:23.36] Worker #216 connected
+[18:23.36] Worker #162 connected
+[18:23.36] Worker #214 connected
+[18:23.36] Worker #129 connected
+[18:23.36] Worker #7 connected
+[18:23.36] Worker #150 connected
+[18:23.37] Worker #280 connected
+[18:23.37] Worker #160 connected
+[18:23.37] Worker #499 connected
+[18:23.37] Worker #293 connected
+[18:23.37] Worker #25 connected
+[18:23.37] Worker #34 connected
+[18:23.37] Worker #33 connected
+[18:23.37] Worker #213 connected
+[18:23.37] Worker #458 connected
+[18:23.37] Worker #2 connected
+[18:23.37] Worker #225 connected
+[18:23.37] Worker #226 connected
+[18:23.37] Worker #232 connected
+[18:23.37] Worker #238 connected
+[18:23.37] Worker #351 connected
+[18:23.37] Worker #348 connected
+[18:23.37] Worker #349 connected
+[18:23.37] Worker #347 connected
+[18:23.37] Worker #449 connected
+[18:23.37] Worker #279 connected
+[18:23.38] Worker #166 connected
+[18:23.38] Worker #452 connected
+[18:23.38] Worker #59 connected
+[18:23.38] Worker #461 connected
+[18:23.38] Worker #344 connected
+[18:23.38] Worker #446 connected
+[18:23.38] Worker #360 connected
+[18:23.38] Worker #233 connected
+[18:23.38] Worker #240 connected
+[18:23.38] Worker #141 connected
+[18:23.38] Worker #459 connected
+[18:23.38] Worker #328 connected
+[18:23.38] Worker #350 connected
+[18:23.38] Worker #239 connected
+[18:23.38] Worker #161 connected
+[18:23.38] Worker #327 connected
+[18:23.38] Worker #346 connected
+[18:23.38] Worker #228 connected
+[18:23.38] Worker #219 connected
+[18:23.39] Worker #223 connected
+[18:23.39] Worker #241 connected
+[18:23.39] Worker #236 connected
+[18:23.39] Worker #354 connected
+[18:23.39] Worker #154 connected
+[18:23.39] Worker #164 connected
+[18:23.39] Worker #127 connected
+[18:23.39] Worker #456 connected
+[18:23.39] Worker #29 connected
+[18:23.39] Worker #355 connected
+[18:23.39] Worker #159 connected
+[18:23.39] Worker #400 connected
+[18:23.39] Worker #343 connected
+[18:23.39] Worker #41 connected
+[18:23.39] Worker #352 connected
+[18:23.39] Worker #30 connected
+[18:23.39] Worker #187 connected
+[18:23.39] Worker #353 connected
+[18:23.39] Worker #434 connected
+[18:23.39] Worker #179 connected
+[18:23.39] Worker #165 connected
+[18:23.39] Worker #497 connected
+[18:23.39] Worker #248 connected
+[18:23.39] Worker #356 connected
+[18:23.40] Worker #250 connected
+[18:23.40] Worker #19 connected
+[18:23.40] Worker #235 connected
+[18:23.40] Worker #11 connected
+[18:23.40] Worker #168 connected
+[18:23.40] Worker #267 connected
+[18:23.40] Worker #268 connected
+[18:23.40] Worker #278 connected
+[18:23.40] Worker #274 connected
+[18:23.40] Worker #302 connected
+[18:23.41] Worker #319 connected
+[18:23.41] Worker #169 connected
+[18:23.41] Worker #275 connected
+[18:23.41] Worker #273 connected
+[18:23.41] Worker #288 connected
+[18:23.41] Worker #439 connected
+[18:23.41] Worker #300 connected
+[18:23.41] Worker #104 connected
+[18:23.41] Worker #230 connected
+[18:23.41] Worker #155 connected
+[18:23.41] Worker #245 connected
+[18:23.41] Worker #269 connected
+[18:23.41] Worker #270 connected
+[18:23.41] Worker #276 connected
+[18:23.41] Worker #324 connected
+[18:23.41] Worker #298 connected
+[18:23.41] Worker #186 connected
+[18:23.41] Worker #229 connected
+[18:23.41] Worker #277 connected
+[18:23.41] Worker #304 connected
+[18:23.41] Worker #301 connected
+[18:23.41] Worker #290 connected
+[18:23.42] Worker #287 connected
+[18:23.42] Worker #299 connected
+[18:23.42] Worker #283 connected
+[18:23.42] Worker #435 connected
+[18:23.42] Worker #209 connected
+[18:23.42] Worker #208 connected
+[18:23.42] Worker #289 connected
+[18:23.42] Worker #188 connected
+[18:23.42] Worker #185 connected
+[18:23.42] Worker #322 connected
+[18:23.42] Worker #323 connected
+[18:23.43] Worker #63 connected
+[18:23.43] Worker #191 connected
+[18:23.43] Worker #204 connected
+[18:23.43] Worker #318 connected
+[18:23.43] Worker #224 connected
+[18:23.43] Worker #284 connected
+[18:23.43] 2984.1680911078647 messages per minute
+[18:23.43] Worker #242 connected
+[18:23.43] Worker #199 connected
+[18:23.43] Worker #264 connected
+[18:23.44] Worker #190 connected
+[18:23.44] Worker #194 connected
+[18:23.44] Worker #211 connected
+[18:23.44] Worker #303 connected
+[18:23.44] Worker #249 connected
+[18:23.44] Worker #251 connected
+[18:23.44] Worker #252 connected
+[18:23.44] Worker #259 connected
+[18:23.44] Worker #253 connected
+[18:23.44] Worker #261 connected
+[18:23.44] Worker #266 connected
+[18:23.44] Worker #195 connected
+[18:23.44] Worker #262 connected
+[18:23.44] Worker #167 connected
+[18:23.44] Worker #263 connected
+[18:23.44] Worker #282 connected
+[18:23.45] Worker #198 connected
+[18:23.45] Worker #285 connected
+[18:23.45] Worker #206 connected
+[18:23.45] Worker #64 connected
+[18:23.45] Worker #189 connected
+[18:23.46] Worker #192 connected
+[18:23.46] Worker #387 connected
+[18:23.46] Worker #271 connected
+[18:23.46] Worker #207 connected
+[18:23.46] Worker #321 connected
+[18:23.46] Worker #420 connected
+[18:23.46] Worker #424 connected
+[18:23.46] Worker #491 connected
+[18:23.46] Worker #201 connected
+[18:23.46] Worker #437 connected
+[18:23.46] Worker #260 connected
+[18:23.46] Worker #309 connected
+[18:23.46] Worker #398 connected
+[18:23.46] Worker #494 connected
+[18:23.47] Worker #388 connected
+[18:23.47] Worker #386 connected
+[18:23.47] Worker #308 connected
+[18:23.47] Worker #430 connected
+[18:23.47] Worker #361 connected
+[18:23.47] Worker #315 connected
+[18:23.47] Worker #237 connected
+[18:23.47] Worker #345 connected
+[18:23.47] Worker #390 connected
+[18:23.47] Worker #162 disconnected
+[18:23.47] Worker #162 trying to reconnect
+[18:23.47] Worker #493 connected
+[18:23.47] Worker #295 connected
+[18:23.47] Worker #476 connected
+[18:23.47] Worker #205 connected
+[18:23.47] Worker #470 connected
+[18:23.48] Worker #210 connected
+[18:23.48] Worker #485 connected
+[18:23.48] Worker #197 connected
+[18:23.48] Worker #473 connected
+[18:23.48] Worker #464 connected
+[18:23.48] Worker #403 connected
+[18:23.48] Worker #342 disconnected
+[18:23.48] Worker #342 trying to reconnect
+[18:23.48] Worker #313 connected
+[18:23.48] Worker #265 connected
+[18:23.48] Worker #193 connected
+[18:23.48] Worker #246 connected
+[18:23.48] Worker #397 connected
+[18:23.48] Worker #490 connected
+[18:23.48] Worker #9 connected
+[18:23.49] Worker #257 connected
+[18:23.49] Worker #487 connected
+[18:23.49] Worker #416 connected
+[18:23.49] Worker #472 connected
+[18:23.49] Worker #247 connected
+[18:23.49] Worker #316 connected
+[18:23.50] Worker #484 connected
+[18:23.50] Worker #162 connected
+[18:23.50] Worker #320 connected
+[18:23.50] Worker #258 connected
+[18:23.50] Worker #231 connected
+[18:23.50] Worker #467 connected
+[18:23.50] Worker #409 connected
+[18:23.50] Worker #441 connected
+[18:23.50] Worker #325 connected
+[18:23.50] Worker #326 connected
+[18:23.50] Worker #363 connected
+[18:23.50] Worker #477 connected
+[18:23.50] Worker #234 connected
+[18:23.51] Worker #495 connected
+[18:23.51] Worker #294 connected
+[18:23.51] Worker #362 connected
+[18:23.51] Worker #428 connected
+[18:23.51] Worker #317 connected
+[18:23.51] Worker #426 connected
+[18:23.51] Worker #417 connected
+[18:23.51] Worker #475 connected
+[18:23.51] Worker #218 connected
+[18:23.51] Worker #302 disconnected
+[18:23.51] Worker #302 trying to reconnect
+[18:23.52] Worker #58 connected
+[18:23.52] Worker #486 connected
+[18:23.52] Worker #492 connected
+[18:23.52] Worker #404 connected
+[18:23.52] Worker #389 connected
+[18:23.53] Worker #305 connected
+[18:23.53] Worker #227 connected
+[18:23.53] 3719.06766325583 messages per minute
+[18:23.53] Worker #433 connected
+[18:23.53] Worker #297 connected
+[18:23.54] Worker #431 connected
+[18:23.54] Worker #474 connected
+[18:23.54] Worker #331 connected
+[18:23.55] Worker #412 connected
+[18:23.55] Worker #372 connected
+[18:23.55] Worker #310 connected
+[18:23.55] Worker #479 connected
+[18:23.55] Worker #378 connected
+[18:23.55] Worker #183 connected
+[18:23.55] Worker #341 connected
+[18:23.55] Worker #332 connected
+[18:23.55] Worker #371 connected
+[18:23.55] Worker #488 connected
+[18:23.56] Worker #427 connected
+[18:23.56] Worker #314 connected
+[18:23.56] Worker #334 connected
+[18:23.56] Worker #442 connected
+[18:23.56] Worker #408 connected
+[18:23.56] Worker #402 connected
+[18:23.56] Worker #466 connected
+[18:23.56] Worker #368 connected
+[18:23.56] Worker #385 connected
+[18:23.56] Worker #357 connected
+[18:23.56] Worker #383 connected
+[18:23.56] Worker #338 connected
+[18:23.56] Worker #370 connected
+[18:23.57] Worker #381 connected
+[18:23.57] Worker #366 connected
+[18:23.57] Worker #196 connected
+[18:23.57] Worker #377 connected
+[18:23.57] Worker #364 connected
+[18:23.57] Worker #306 connected
+[18:23.57] Worker #425 connected
+[18:23.57] Worker #296 connected
+[18:23.57] Worker #243 connected
+[18:23.57] Worker #184 connected
+[18:23.57] Worker #440 connected
+[18:23.58] Worker #384 connected
+[18:23.58] Worker #374 connected
+[18:23.58] Worker #337 connected
+[18:23.58] Worker #429 connected
+[18:23.58] Worker #469 connected
+[18:23.58] Worker #448 connected
+[18:23.58] Worker #359 connected
+[18:23.58] Worker #365 connected
+[18:23.58] Worker #339 connected
+[18:23.58] Worker #373 connected
+[18:23.58] Worker #375 connected
+[18:23.58] Worker #478 connected
+[18:23.59] Worker #60 connected
+[18:23.59] Worker #462 connected
+[18:23.59] Worker #432 connected
+[18:23.59] Worker #382 connected
+[18:23.59] Worker #333 connected
+[18:23.59] Worker #307 connected
+[18:23.59] Worker #286 connected
+[18:23.59] Worker #455 connected
+[18:23.59] Worker #369 connected
+[18:23.59] Worker #380 connected
+[18:23.59] Worker #342 connected
+[18:24.0] Worker #203 connected
+[18:24.1] Worker #312 connected
+[18:24.1] Worker #454 connected
+[18:24.1] Worker #256 connected
+[18:24.1] Worker #311 connected
+[18:24.1] Worker #418 connected
+[18:24.1] Worker #336 connected
+[18:24.2] Worker #399 connected
+[18:24.2] Worker #302 connected
+[18:24.2] Worker #254 connected
+[18:24.2] Worker #255 connected
+[18:24.3] Worker #379 connected
+[18:24.3] 4228.596886431554 messages per minute
+[18:24.3] Worker #376 connected
+[18:24.3] Worker #329 connected
+[18:24.4] Worker #410 connected
+[18:24.4] Worker #485 disconnected
+[18:24.4] Worker #485 trying to reconnect
+[18:24.4] Worker #181 connected
+[18:24.5] Worker #411 connected
+[18:24.5] Worker #468 connected
+[18:24.5] Worker #358 connected
+[18:24.6] Worker #316 disconnected
+[18:24.6] Worker #316 trying to reconnect
+[18:24.6] Worker #485 connected
+[18:24.8] Worker #419 connected
+[18:24.10] Worker #316 connected
+[18:24.11] Worker #401 connected
+[18:24.12] Worker #335 connected
+[18:24.13] 4472.660747121585 messages per minute
+[18:24.14] Worker #471 connected
+[18:24.22] Worker #447 connected
+[18:24.23] Worker #212 connected
+[18:24.23] 4481.496131487768 messages per minute
+[18:24.25] Worker #465 connected
+[18:24.30] Worker #367 connected
+[18:24.33] 4493.509686469873 messages per minute
+[18:24.38] Worker #244 connected
+[18:24.43] 4497.101425470172 messages per minute
+[18:44.21] Starting...
+[18:44.21] Starting Worker #0
+[18:44.21] http://188.68.59.198:8080
+[18:44.21] Starting Worker #1
+[18:44.21] http://188.68.59.198:8080
+[18:44.21] Starting Worker #2
+[18:44.21] http://188.68.59.198:8080
+[18:44.21] Worker #0 connected
+[18:44.21] Worker #1 connected
+[18:44.21] Starting Worker #3
+[18:44.21] http://188.68.59.198:8080
+[18:44.21] Worker #2 connected
+[18:44.22] Worker #3 connected
+[18:44.22] Starting Worker #4
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #5
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #6
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Worker #4 connected
+[18:44.22] Starting Worker #7
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #8
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #9
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #10
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Worker #5 connected
+[18:44.22] Worker #6 connected
+[18:44.22] Starting Worker #11
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Worker #7 connected
+[18:44.22] Worker #8 connected
+[18:44.22] Worker #9 connected
+[18:44.22] Worker #10 connected
+[18:44.22] Worker #11 connected
+[18:44.22] Starting Worker #12
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #13
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Worker #12 connected
+[18:44.22] Starting Worker #14
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #15
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #16
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Worker #13 connected
+[18:44.22] Worker #14 connected
+[18:44.22] Worker #15 connected
+[18:44.22] Worker #16 connected
+[18:44.22] Starting Worker #17
+[18:44.22] http://188.68.59.198:8080
+[18:44.22] Starting Worker #18
+[18:44.22] http://188.68.59.198:8080
+[18:44.23] Starting Worker #19
+[18:44.23] http://188.68.59.198:8080
