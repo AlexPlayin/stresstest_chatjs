@@ -3,6 +3,10 @@ app = express();
 fs = require('fs');
 io = require('socket.io-client');
 
+words = require('./words.json');
+console.log(words.length);
+
+
 log('Starting...');
 TARGET_IP = 'http://188.68.59.198:8080';
 var w_amount = 20; // Workermenge
@@ -68,7 +72,7 @@ function main() {
 
             socket.emit('chat', {
                 name: username,
-                text: makeid(80)
+                text: makemsg(14)
             });
 
         }, interval);
@@ -198,6 +202,14 @@ function makeid(length) {
     return text;
 }
 
+function makemsg(length) {
+    var text = '';
+    for (var i = 0; i < length; i++) {
+        var id = Math.round(Math.random()*1000);
+        text = text + ' ' + words[id];
+    }
+    return text;
+}
 
 
 function log(event) {
