@@ -58,7 +58,6 @@ function main() {
         self.socket = io(TARGET_IP);
         self.socket.open();
         log(TARGET_IP);
-        console.log( self.socket);
 
         self.socket.on('connect', function () {
             log('Worker #' + id + ' connected');
