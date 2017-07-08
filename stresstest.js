@@ -44,7 +44,8 @@ function main() {
         var self = this;
         states[id] = 0;
         self.username = username;
-        self.stop = false;
+        self.stopv = false;
+        self.id = id;
         
         self.interval = getInterval(); 
        
@@ -79,6 +80,7 @@ function main() {
         //socket.on('event', function(data){});
 
         self.socket.on('disconnect', function () {
+           if (!self.stopv) {
             states[id] = 0;
             log('Worker #' + id + ' disconnected');
             log('Worker #' + id + ' trying to reconnect');
@@ -87,6 +89,8 @@ function main() {
                 setTimeout(self.socket.open(TARGET_IP), 3000);
             }
             states[id] = 2;
+               }
+               
         });
 
 
@@ -95,7 +99,7 @@ function main() {
     worker.prototype.stop = function (){
                 var self = this;
 
-        self.stop = true;
+        self.stopv = true;
     }
     worker.prototype.sendmessage = function () {
                 var self = this;
@@ -105,8 +109,17 @@ function main() {
                 name: self.username,
                 text: makemsg(14)
             }); 
-             if (!self.stop) {
+             if (!self.stopv) {
         self.sendmessage();
+        } else {
+            self.socket.close();
+            workers.splice(self.id,1);
+            states.splice(self.id,1);
+            factors.splice(self.id,1);
+            workers = workers.filter(function(n){ return n != null }); 
+            states = states.filter(function(n){ return n != null }); 
+            factors = factors.filter(function(n){ return n != null }); 
+        
         }
         }, self.interval / m_multiplier);
        
