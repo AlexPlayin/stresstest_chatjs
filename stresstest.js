@@ -4,11 +4,11 @@ fs = require('fs');
 io = require('socket.io-client');
 
 words = require('./words.json');
-console.log(words.length);
 
 
 log('Starting...');
 TARGET_IP = 'http://188.68.59.198:8080';
+//TARGET_IP = 'http://127.0.0.1:8080';
 var w_amount = 20; // Workermenge
 var m_amount = 0; // messages pro minute
 var c_amount = 0; // commands pro minute
@@ -18,7 +18,8 @@ var worker_messages = [];
 //w_amount = w_amount - 1;
 states = [];
 factors = [];
-
+avg = 0;
+m_multiplier = 1;
 
 
 main();
@@ -40,76 +41,86 @@ function main() {
     createworkers(w_amount);
 
     function worker(id, m_amount, c_amount, username) {
-
+        var self = this;
         states[id] = 0;
-
-        log('startig worker');
-
-        var interval = Math.round(Math.random() * 40000);
-        var factor = 60000 / interval;
+        self.username = username;
+        self.stop = false;
+        
+        self.interval = getInterval(); 
+       
+        avg = avg + self.interval;
+        //var interval = 20000;
+        var factor = 60000 / self.interval*m_multiplier;
 
 
 
         log('Starting Worker #' + id);
-        var socket = io(TARGET_IP);
-        socket.open();
+        self.socket = io(TARGET_IP);
+        self.socket.open();
         log(TARGET_IP);
+        console.log( self.socket);
 
-        socket.on('connect', function () {
+        self.socket.on('connect', function () {
             log('Worker #' + id + ' connected');
 
             states[id] = 1;
 
-            socket.emit('handshake', {
-                username: username
+            self.socket.emit('handshake', {
+                username: self.username
             });
-            socket.emit('status', 'test');
+            self.socket.emit('status', 'test');
             factors[id] = factor;
         });
 
+            self.sendmessage();
 
-         this.messages = setInterval(function () {
-
-            socket.emit('chat', {
-                name: username,
-                text: makemsg(14)
-            });
-
-        }, interval);
-
+         
 
 
         //socket.on('event', function(data){});
 
-        socket.on('disconnect', function () {
+        self.socket.on('disconnect', function () {
             states[id] = 0;
             log('Worker #' + id + ' disconnected');
             log('Worker #' + id + ' trying to reconnect');
             factors[id] = 0;
-            while (this.state = 0) {
-                setTimeout(socket.open(TARGET_IP), 3000);
+            while (self.state = 0) {
+                setTimeout(self.socket.open(TARGET_IP), 3000);
             }
             states[id] = 2;
         });
 
 
     }
-    
+    //2.565
     worker.prototype.stop = function (){
-        clearInterval(this.messages);
+                var self = this;
+
+        self.stop = true;
+    }
+    worker.prototype.sendmessage = function () {
+                var self = this;
+
+        setTimeout(function () {
+           self.socket.emit('chat', {
+                name: self.username,
+                text: makemsg(14)
+            }); 
+             if (!self.stop) {
+        self.sendmessage();
+        }
+        }, self.interval / m_multiplier);
+       
     }
     function createworkers (c) {
         
        var d = workers.length + c;
-        console.log(d);
        for (var i = workers.length; i < d; i++) {
-        var interval = Math.round(Math.random() * 40000);
-           console.log(i);
+        var interval = Math.round(Math.random() * 80000);
         setTimeout(function () {
             startworker();
         }, interval);
     } 
-        console.log(workers);
     }
     
     setInterval(function () {
@@ -125,14 +136,14 @@ function main() {
     });
 
     app.use(express.static('public'));
-
     app.get('/workerstatus', function (req, res) {
 
         var answer = {
             workercount: 0,
             workerconn: 0,
             mpm: 0,
-            reconnecting: 0
+            reconnecting: 0,
+            cpm: 0
         };
 
         for (var i = 0; i < states.length; i++) {
@@ -152,6 +163,7 @@ function main() {
             mpm = mpm + factors[i];
         }
         answer.mpm = mpm;
+        answer.cpm = mpm/workers.length;
         res.send(JSON.stringify(answer));
 
     });
@@ -159,16 +171,20 @@ function main() {
     app.get('/changeworkers/:type1/:count', function (req, res) {
         var type = parseInt(req.params.type1, 10);
         var count = parseInt(req.params.count,10);
-        console.log('getting');
         if (type === 1) {
             
             //Adding
             createworkers(count);
-            console.log('adding');
-        } else {
-            console.log('deleting');
+        } else if (type === 2){
             //Deleting
             deleteworkers(count);
+        } else if (type === 3) {
+            m_multiplier = count;
+            
+            for (var i = 0; i < workers.length; i++) {
+                factors[i] = 60000/workers[i].interval * m_multiplier;
+
+            }
         }
         
     });
@@ -227,4 +243,16 @@ function log(event) {
             return console.log(err);
         }
     });
+}
+
+function getInterval() {
+     var answer = 0;
+            var rand = Math.round(Math.random() * 40000);
+   if (rand < 13334 || rand > 26600) {
+       answer = getInterval();
+   } else {
+       answer = rand;
+   }
+    
+    return answer;
 }
